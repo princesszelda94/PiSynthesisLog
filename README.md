@@ -36,7 +36,7 @@ discuss the results we came up with from our research.
 - We decided to use real time db for Firebase, Digital Ocean after for computing, 
 React for the app.
 - I learnt how to use git pages and learnt more about Digital Ocean.
-    - **Hours worked – 1-7pm** (lunch was from 4-5)
+- **Hours worked – 1-7pm** (lunch was from 4-5)
 
 # Monday 8th October
 - Today, I researched on the different sensors needed for hydroponics 
@@ -49,7 +49,7 @@ for my job and it was really exhausting. I'm still learning to manage my time.
 - Today, we met with our first stakeholder and obtained very useful information from 11-12pm.
 - I also worked with Michael to set up the sensors with the raspberry pi 
 and ensure that it is working.
-    - **Hours worked - 6-8pm**
+- **Hours worked - 6-8pm**
 
 # Wednesday 10th October
 - Today, Michael and I could not attend UWI as he became horribly sick 
@@ -58,4 +58,4 @@ and needed to go to the doctor :(
 # Thursday 11th October
 - Today we went to the doctor and did not get much done. 
 However, we still did some research on DigitalOcean and watch YouTube videos on how to use it.
-    - **Hours worked - 6 - 7:30pm**
+- **Hours worked - 6 - 7:30pm**
