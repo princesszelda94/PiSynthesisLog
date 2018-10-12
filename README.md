@@ -1,10 +1,10 @@
 # Welcome to Sweng 2 blog
 
 # 24th to 28th September
-> This week we met in person for a meeting, 
-    discussed the milestones to be completed, the user and system requirements. 
-> We talked on whatsapp to discuss and complete milestone 1.
-> We discussed how we will be meeting for the rest of the semester.
+- This week we met in person for a meeting, 
+discussed the milestones to be completed, the user and system requirements. 
+- We talked on whatsapp to discuss and complete milestone 1.
+- We discussed how we will be meeting for the rest of the semester.
 
 # 1st to 5th October
 - We completed the user, system, functional and non-functional requirements.
