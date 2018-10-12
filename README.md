@@ -1,14 +1,22 @@
 # Welcome to Sweng 2 blog
 
 # 24th to 28th September
-    - This week we met in person for a meeting, discussed the milestones to be completed, the user and system requirements. We talked on whatsapp to discuss and complete milestone 1 and discussed how we will be meeting for the rest of the semester.</li>
+    - This week we met in person for a meeting, 
+        discussed the milestones to be completed, the user and system requirements. 
+    - We talked on whatsapp to discuss and complete milestone 1.
+    - We discussed how we will be meeting for the rest of the semester.
 
 # 1st to 5th October
-    - We completed the user, system, functional and non-functional requirements as well as the uml diagrams and specification for the system.
-    - We had a meeting on Thursday in person to discuss what went on in class and what Kyle said during the meeting. We discussed stakeholders, getting the sensors and the raspberry pi and set up other meetings to be held everyday.
+    - We completed the user, system, functional and non-functional requirements.
+    - We also completed the uml diagrams and specification for the system.
+    - We had a meeting on Thursday in person to discuss what went on in class 
+        and what Kyle said during the meeting. 
+    - We discussed stakeholders, getting the sensors and the raspberry pi and set up other meetings to be held everyday.
     
 # Saturday 6th October
-    - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, getting a raspberry pi and ensuring that the sensors are working and discussed what we should do for the rest of the week. 
+    - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
+        getting a raspberry pi and ensuring that the sensors are working 
+        and discussed what we should do for the rest of the week. 
     
 # Sunday 7th October
     - Today I researched on which technology to use between DigitalOcean and Firebase and made a written Document, documenting the pros and cons, pricing, what they both are and their features. At the end, I decided that using both is best, where DigitalOcean would be used for computing and cloud services, and since it needs a database to be integrated and managed, I decided to integrate Firebase into it since it is the easiest to use and we all have experience with it. It is also much easier to manage.
