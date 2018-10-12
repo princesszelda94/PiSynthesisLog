@@ -1,7 +1,5 @@
 # Welcome to Sweng 2 blog
 
-![Software](https://www.swri.org/sites/default/files/styles/client_services_banner/public/industries/AdobeStock_111975726.jpeg?itok=fFY7iD-7&c=7360e45d6d05de818954440bb95c09fd)
-
 # 24th to 28th September
 - This week we met in person for a meeting, 
     discussed the milestones to be completed, the user and system requirements. 
