@@ -36,7 +36,7 @@
     - We decided to use real time db for Firebase, Digital Ocean after for computing, 
       React for the app.
     - I learnt how to use git pages and learnt more about Digital Ocean.
-    - **Hours worked – 1-7pm** (lunch was from 4-5)
+    **Hours worked – 1-7pm** (lunch was from 4-5)
 
 # Monday 8th October
     - Today, I researched on the different sensors needed for hydroponics 
