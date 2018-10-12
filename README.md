@@ -43,7 +43,7 @@ React for the app.
 and the most effective way to automatically keep the environment optimal.
 - I did not get to work as much as I wanted to as I overworked 
 for my job and it was really exhausting. I'm still learning to manage my time.
-    - **Hours worked - 5-6pm**
+- **Hours worked - 5-6pm**
 
 # Tuesday 9th October
 - Today, we met with our first stakeholder and obtained very useful information from 11-12pm.
