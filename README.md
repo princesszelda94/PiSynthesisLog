@@ -2,7 +2,7 @@
 
 # 24th to 28th September
     - This week we met in person for a meeting, 
-    discussed the milestones to be completed, the user and system requirements. 
+        - discussed the milestones to be completed, the user and system requirements. 
     - We talked on whatsapp to discuss and complete milestone 1.
     - We discussed how we will be meeting for the rest of the semester.
 
@@ -10,7 +10,7 @@
     - We completed the user, system, functional and non-functional requirements.
     - We also completed the uml diagrams and specification for the system.
     - We had a meeting on Thursday in person to discuss what went on in class 
-    and what Kyle said during the meeting. 
+      and what Kyle said during the meeting. 
     - We discussed stakeholders, getting the sensors and the raspberry pi 
     and set up other meetings to be held everyday.
     
