@@ -3,7 +3,7 @@
 # 15th to 19th September
 - This week we discussed on whatsapp, the project we would be doing. We decided
 to choose the same project that we started working on for Software Engineering 1. 
-- We talked about 
+- We talked about:
     - The importance of getting stakeholders
     - Who are the Stakeholders
     - Shared what we did for Software Engineering 1
