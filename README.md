@@ -70,3 +70,8 @@ and needed to go to the doctor :(
 - Today we went to the doctor and did not get much done. 
 However, we still did some research on DigitalOcean and watch YouTube videos on how to use it.
 - **Hours worked - 6 - 7:30pm**
+
+# Friday 12th October
+- Today I researched on how to pull data from the raspberry pi into Firebase.
+- I also watched some tutorials and learnt some React to help out with the front-end.
+- **Hours worked - 6 - 8:30pm**
