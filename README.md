@@ -1,10 +1,21 @@
 # Welcome to Sweng 2 blog
 
+# 15th to 19th September
+- This week we discussed on whatsapp, the project we would be doing. We decided
+to choose the same project that we started working on for Software Engineering 1. 
+- We talked about 
+    - The importance of getting stakeholders
+    - Who are the Stakeholders
+    - Shared what we did for Software Engineering 1
+    - Discussed how to make the project better
+    - Discussed the importance of communicating with stakeholders to develop the system.
+
 # 24th to 28th September
 - This week we met in person for a meeting, 
 discussed the milestones to be completed, the user and system requirements. 
 - We talked on whatsapp to discuss and complete milestone 1.
 - We discussed how we will be meeting for the rest of the semester.
+- We discussed the skills each of us have and how it would fit into the project.
 
 # 1st to 5th October
 - We completed the user, system, functional and non-functional requirements.
