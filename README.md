@@ -67,11 +67,14 @@ and ensure that it is working.
 and needed to go to the doctor :( 
 
 # Thursday 11th October
-- Today we went to the doctor and did not get much done. 
+- Today Michael and I went to the doctor and did not get much done. 
 However, we still did some research on DigitalOcean and watch YouTube videos on how to use it.
 - **Hours worked - 6 - 7:30pm**
 
 # Friday 12th October
 - Today I researched on how to pull data from the raspberry pi into Firebase.
-- I also watched some tutorials and learnt some React to help out with the front-end.
-- **Hours worked - 6 - 8:30pm**
+- I also performed some unit tests on the sensors with Michael.
+- **Hours worked - 6 - 9pm**
+
+# Saturday 13th October
+- I watched some tutorials and learnt some React to help out with the front-end.
