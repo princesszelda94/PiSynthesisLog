@@ -68,7 +68,7 @@ and needed to go to the doctor :(
 
 # Thursday 11th October
 - Today Michael and I went to the doctor and did not get much done. 
-However, we still did some research on DigitalOcean and watch YouTube videos on how to use it.
+However, I still did some research on DigitalOcean and watch YouTube videos on how to use it.
 - **Hours worked - 6 - 7:30pm**
 
 # Friday 12th October
