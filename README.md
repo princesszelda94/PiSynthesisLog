@@ -1,4 +1,9 @@
-# Welcome to Sweng 2 blog
+# Welcome to my individual log page
+
+Name: Gabriela Sewdhan
+ID: 813001696
+Project: Pisynthesis
+Github link: https://github.com/PiDronics
 
 # 15th to 19th September
 - This week we discussed on whatsapp, the project we would be doing. We decided
@@ -73,7 +78,7 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 
 # Friday 12th October
 - Today I researched on how to pull data from the raspberry pi into Firebase.
-- I also performed some unit tests on the sensors with Michael.
+- I worked on writing the code to read data from the temperature/humidity sensor.
 - **Hours worked - 6 - 9pm**
 
 # Saturday 13th October
@@ -83,13 +88,14 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 -- **Hours worked - 10- 4pm**
 
 # Sunday 14th October
-- I added documentation to the sensor code and made it more readable.
-- I did further research on how to make our system completely autonomous, 
+- I did further research on how to make our system completely autonomous.
 
 # Monday 15th October
-- We discussed who would be the scrum master and product owner this week. I became the Scrum Master and Qarun became the Product Owner.
+- We discussed who would be the scrum master and product owner this week:
+    - New Scrum Master: Gabriela Sewdhan
+    - New Product Owner: Qarun Bissoondial
 - I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.
 
 # Tuesday 16th October
-- I worked with Michael to pull the sensor values into the web app.
+- I worked with Michael to pull the sensor values into firebase and into the web app.
 - We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".
