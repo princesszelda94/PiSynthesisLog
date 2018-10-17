@@ -34,6 +34,9 @@ and set up other meetings to be held everyday.
 - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
 getting a raspberry pi and ensuring that the sensors are working 
 and discussed what we should do for the rest of the week. 
+- We discussed who would be the scrum master and product owner for the 1st iteration:
+    - Scrum Master: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)
+    - Product Owner: [Michael Ali](https://github.com/irontarkus95)
 
 # Sunday 7th October
 - Today I researched on which technology to use between DigitalOcean and Firebase,
@@ -92,8 +95,8 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 
 # Monday 15th October
 - We discussed who would be the scrum master and product owner this week:
-    - New Scrum Master: [Gabriela Sewdhan]
-    - New Product Owner: [Qarun Bissoondial]
+    - New Scrum Master: [Gabriela Sewdhan](https://github.com/princesszelda94)
+    - New Product Owner: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)
 - I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.
 
 # Tuesday 16th October
