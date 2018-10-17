@@ -1,9 +1,9 @@
 # Welcome to my individual log page
 
-Name: Gabriela Sewdhan
-ID: 813001696
-Project: Pisynthesis
-Github link: https://github.com/PiDronics
+Name: Gabriela Sewdhan <br>
+ID: 813001696 <br>
+Project: Pisynthesis <br>
+Github link: https://github.com/PiDronics <br>
 
 # 15th to 19th September
 - This week we discussed on whatsapp, the project we would be doing. We decided
