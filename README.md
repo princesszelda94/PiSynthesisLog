@@ -77,4 +77,19 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 - **Hours worked - 6 - 9pm**
 
 # Saturday 13th October
-- I watched some tutorials and learnt some React to help out with the front-end.
+- I watched tutorials and learnt some React to help out with the front-end.
+- I tried to make the web app responsive and look good on a mobile app, but it was of no use.
+- I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.
+-- **Hours worked - 10- 4pm**
+
+# Sunday 14th October
+- I added documentation to the sensor code and made it more readable.
+- I did further research on how to make our system completely autonomous, 
+
+# Monday 15th October
+- We discussed who would be the scrum master and product owner this week. I became the Scrum Master and Qarun became the Product Owner.
+- I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.
+
+# Tuesday 16th October
+- I worked with Michael to pull the sensor values into the web app.
+- We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".
