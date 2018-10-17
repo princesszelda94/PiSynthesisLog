@@ -92,8 +92,8 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 
 # Monday 15th October
 - We discussed who would be the scrum master and product owner this week:
-    - New Scrum Master: Gabriela Sewdhan
-    - New Product Owner: Qarun Bissoondial
+    - New Scrum Master: [Gabriela Sewdhan]
+    - New Product Owner: [Qarun Bissoondial]
 - I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.
 
 # Tuesday 16th October
