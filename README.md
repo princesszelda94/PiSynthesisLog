@@ -7,7 +7,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
-<p></p>
+<p>
 # 15th to 19th September
 
 + This week we discussed on whatsapp, the project we would be doing. We decided
