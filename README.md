@@ -17,7 +17,7 @@ to choose the same project that we started working on for Software Engineering 1
     - Shared what we did for Software Engineering 1
     - Discussed how to make the project better
     - Discussed the importance of communicating with stakeholders to develop the system.
-    
+</p>
 </details>
 
 <details>
@@ -29,7 +29,7 @@ discussed the milestones to be completed, the user and system requirements.
 - We talked on whatsapp to discuss and complete milestone 1.
 - We discussed how we will be meeting for the rest of the semester.
 - We discussed the skills each of us have and how it would fit into the project.
-
+</p>
 </details>
 
 <details>
@@ -43,7 +43,7 @@ and what Kyle said during the meeting.
 - We discussed stakeholders, getting the sensors and the raspberry pi 
 and set up other meetings to be held everyday.
 - **Hours worked - 8 hours**
-
+</p>
 </details>
 
 <details>
@@ -112,7 +112,7 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 
 # Sunday 14th October
 - I did further research on how to make our system completely autonomous.
-
+</p>
 </details>
 
 <details>
@@ -157,13 +157,13 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 # Monday 22nd October
 
 # Tuesday 23rd October
-
+</p>
 </details>
 
 <details>
 <summary><strong>Week Six - Iteration 3 (expand for details)</strong></summary><p>
 
 Wednesday 24th October
-
+</p>
 </details>
 
