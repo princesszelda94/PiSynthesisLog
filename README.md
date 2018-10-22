@@ -163,5 +163,7 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 <details>
 <summary><strong>Week Six - Iteration 3 (expand for details)</strong></summary><p>
 
+Wednesday 24th October
+
 </details>
 
