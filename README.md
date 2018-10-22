@@ -15,18 +15,19 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
 <p>
-<strong> 15th to 19th September </strong>
+<strong><h1>15th to 19th September</h1></strong>
 </p>
 
 <p>
-+ This week we discussed on whatsapp, the project we would be doing. We decided
-to choose the same project that we started working on for Software Engineering 1. 
-+ We talked about:
-    + The importance of getting stakeholders
-    + Who are the Stakeholders
-    + Shared what we did for Software Engineering 1
-    + Discussed how to make the project better
-    + Discussed the importance of communicating with stakeholders to develop the system.
+<li>This week we discussed on whatsapp, the project we would be doing. We decided
+to choose the same project that we started working on for Software Engineering 1. </li>
+<li>We talked about:
+    <li>The importance of getting stakeholders</li>
+    <li>Who are the Stakeholders</li>
+    <li>Shared what we did for Software Engineering 1</li>
+    <li>Discussed how to make the project better</li>
+    <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
+</li>
 </p>
 </details>
 
