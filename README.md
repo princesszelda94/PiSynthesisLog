@@ -5,6 +5,16 @@ ID: 813001696 <br>
 Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
+# 15th to 19th September
+- This week we discussed on whatsapp, the project we would be doing. We decided
+to choose the same project that we started working on for Software Engineering 1. 
+- We talked about:
+    - The importance of getting stakeholders
+    - Who are the Stakeholders
+    - Shared what we did for Software Engineering 1
+    - Discussed how to make the project better
+    - Discussed the importance of communicating with stakeholders to develop the system.
+    
 <details>
 <summary><strong>Week One (expand for details)</strong></summary><p>
 
