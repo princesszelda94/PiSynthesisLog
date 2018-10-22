@@ -29,6 +29,7 @@ discussed the milestones to be completed, the user and system requirements.
 and what Kyle said during the meeting. 
 - We discussed stakeholders, getting the sensors and the raspberry pi 
 and set up other meetings to be held everyday.
+- **Hours worked - 8 hours**
 
 # Saturday 6th October
 - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
@@ -37,6 +38,7 @@ and discussed what we should do for the rest of the week.
 - We discussed who would be the scrum master and product owner for the 1st iteration:
     - Scrum Master: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)
     - Product Owner: [Michael Ali](https://github.com/irontarkus95)
+- **Hours worked - 1 1/2 hours**
 
 # Sunday 7th October
 - Today I researched on which technology to use between DigitalOcean and Firebase,
@@ -98,7 +100,37 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
     - New Scrum Master: [Gabriela Sewdhan](https://github.com/princesszelda94)
     - New Product Owner: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)
 - I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.
+- **Hours worked - 9 - 12 pm**
 
 # Tuesday 16th October
 - I worked with Michael to pull the sensor values into firebase and into the web app.
 - We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".
+
+# Wednesday 17th October
+- We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot and feel like we should make code reviews a regular thing.
+
+# Thursday 18th October
+- I worked with Michael to test if the sensors we had could be submerged. It could not as our sensors do not work in a moisture rich environment.
+    - We researched ways to coat the sensors and coated them in a shrink-wrap.
+    - We also discussed dipping them in thermally conductive epoxy.
+    - This outcome had me feeling down as Michael and I worked hard on our code to read sensor values and test them. However, this is just a minor drawback.
+- What I learnt => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. 
+
+# Friday 19th October
+- Michael and I obtained the pi3 and tested out sensor code on it.
+    - Outcome - The libraries did not work the same for the pi3 as it did for the pi2.
+    - We researched and found ways for our sensor code to work on both the pi2 and pi3.
+
+# Saturday 20th October
+- I worked with Michael to wrie sensor code to pull data from both the pi2 and pi3. 
+- I also unit tested the functions used in the sensor code.
+
+# Sunday 21st October
+- We discussed who would be the scrum master and product owner this week:
+    - New Scrum Master: [Michael Ali](https://github.com/irontarkus95)
+    - New Product Owner: [Kristan Birbalsingh](https://github.com/Qarun-Qadir-Bissoondial)
+- We discussed what we completed for the week, what's left to do and problems we ran into.
+
+# Monday 22nd October
+
+# Tuesday 23rd October
