@@ -7,7 +7,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
-
+<p></p>
 # 15th to 19th September
 
 + This week we discussed on whatsapp, the project we would be doing. We decided
@@ -18,6 +18,7 @@ to choose the same project that we started working on for Software Engineering 1
     + Shared what we did for Software Engineering 1
     + Discussed how to make the project better
     + Discussed the importance of communicating with stakeholders to develop the system.
+</p>
 </details>
 
 *** 
