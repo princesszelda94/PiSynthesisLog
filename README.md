@@ -15,7 +15,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
 <p>
-# 15th to 19th September 
+<strong> 15th to 19th September </strong>
 </p>
 
 <p>
