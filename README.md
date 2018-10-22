@@ -5,28 +5,19 @@ ID: 813001696 <br>
 Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
-# 15th to 19th September
-- This week we discussed on whatsapp, the project we would be doing. We decided
-to choose the same project that we started working on for Software Engineering 1. 
-- We talked about:
-    - The importance of getting stakeholders
-    - Who are the Stakeholders
-    - Shared what we did for Software Engineering 1
-    - Discussed how to make the project better
-    - Discussed the importance of communicating with stakeholders to develop the system.
-    
 <details>
 <summary><strong>Week One (expand for details)</strong></summary><p>
 
 # 15th to 19th September
-- This week we discussed on whatsapp, the project we would be doing. We decided
+
+1. This week we discussed on whatsapp, the project we would be doing. We decided
 to choose the same project that we started working on for Software Engineering 1. 
-- We talked about:
-    - The importance of getting stakeholders
-    - Who are the Stakeholders
-    - Shared what we did for Software Engineering 1
-    - Discussed how to make the project better
-    - Discussed the importance of communicating with stakeholders to develop the system.
+1. We talked about:
+    1. The importance of getting stakeholders
+    1. Who are the Stakeholders
+    1. Shared what we did for Software Engineering 1
+    1. Discussed how to make the project better
+    1. Discussed the importance of communicating with stakeholders to develop the system.
 </p>
 </details>
 
