@@ -47,7 +47,7 @@ and set up other meetings to be held everyday.
 </details>
 
 <details>
-<summary><strong>Week Four (expand for details)</strong></summary><p>
+<summary><strong>Week Four - Iteration 1 (expand for details)</strong></summary><p>
 
 # Saturday 6th October
 - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
@@ -116,7 +116,7 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 </details>
 
 <details>
-<summary><strong>Week Five (expand for details)</strong></summary><p>
+<summary><strong>Week Five - Iteration 2 (expand for details)</strong></summary><p>
 
 # Monday 15th October
 - We discussed who would be the scrum master and product owner this week:
@@ -154,9 +154,14 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
     - New Product Owner: [Kristan Birbalsingh](https://github.com/KCB4Rockstar)
 - We discussed what we completed for the week, what's left to do and problems we ran into.
 
-</details>
-
 # Monday 22nd October
 
 # Tuesday 23rd October
+
+</details>
+
+<details>
+<summary><strong>Week Six - Iteration 3 (expand for details)</strong></summary><p>
+
+</details>
 
