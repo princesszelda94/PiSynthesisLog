@@ -128,7 +128,7 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 # Sunday 21st October
 - We discussed who would be the scrum master and product owner this week:
     - New Scrum Master: [Michael Ali](https://github.com/irontarkus95)
-    - New Product Owner: [Kristan Birbalsingh](https://github.com/Qarun-Qadir-Bissoondial)
+    - New Product Owner: [Kristan Birbalsingh](https://github.com/KCB4Rockstar)
 - We discussed what we completed for the week, what's left to do and problems we ran into.
 
 # Monday 22nd October
