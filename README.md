@@ -5,6 +5,9 @@ ID: 813001696 <br>
 Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
+<details>
+<summary><strong>Week One (expand for details)</strong></summary><p>
+
 # 15th to 19th September
 - This week we discussed on whatsapp, the project we would be doing. We decided
 to choose the same project that we started working on for Software Engineering 1. 
@@ -14,6 +17,11 @@ to choose the same project that we started working on for Software Engineering 1
     - Shared what we did for Software Engineering 1
     - Discussed how to make the project better
     - Discussed the importance of communicating with stakeholders to develop the system.
+    
+</details>
+
+<details>
+<summary><strong>Week Two (expand for details)</strong></summary><p>
 
 # 24th to 28th September
 - This week we met in person for a meeting, 
@@ -21,6 +29,11 @@ discussed the milestones to be completed, the user and system requirements.
 - We talked on whatsapp to discuss and complete milestone 1.
 - We discussed how we will be meeting for the rest of the semester.
 - We discussed the skills each of us have and how it would fit into the project.
+
+</details>
+
+<details>
+<summary><strong>Week Three (expand for details)</strong></summary><p>
 
 # 1st to 5th October
 - We completed the user, system, functional and non-functional requirements.
@@ -30,6 +43,11 @@ and what Kyle said during the meeting.
 - We discussed stakeholders, getting the sensors and the raspberry pi 
 and set up other meetings to be held everyday.
 - **Hours worked - 8 hours**
+
+</details>
+
+<details>
+<summary><strong>Week Four (expand for details)</strong></summary><p>
 
 # Saturday 6th October
 - We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
@@ -95,6 +113,11 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 # Sunday 14th October
 - I did further research on how to make our system completely autonomous.
 
+</details>
+
+<details>
+<summary><strong>Week Five (expand for details)</strong></summary><p>
+
 # Monday 15th October
 - We discussed who would be the scrum master and product owner this week:
     - New Scrum Master: [Gabriela Sewdhan](https://github.com/princesszelda94)
@@ -131,6 +154,9 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
     - New Product Owner: [Kristan Birbalsingh](https://github.com/KCB4Rockstar)
 - We discussed what we completed for the week, what's left to do and problems we ran into.
 
+</details>
+
 # Monday 22nd October
 
 # Tuesday 23rd October
+
