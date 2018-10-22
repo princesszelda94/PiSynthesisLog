@@ -10,16 +10,18 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 # 15th to 19th September
 
-1. This week we discussed on whatsapp, the project we would be doing. We decided
++ This week we discussed on whatsapp, the project we would be doing. We decided
 to choose the same project that we started working on for Software Engineering 1. 
-1. We talked about:
-    1. The importance of getting stakeholders
-    1. Who are the Stakeholders
-    1. Shared what we did for Software Engineering 1
-    1. Discussed how to make the project better
-    1. Discussed the importance of communicating with stakeholders to develop the system.
++ We talked about:
+    + The importance of getting stakeholders
+    + Who are the Stakeholders
+    + Shared what we did for Software Engineering 1
+    + Discussed how to make the project better
+    + Discussed the importance of communicating with stakeholders to develop the system.
 </p>
 </details>
+
+*** 
 
 <details>
 <summary><strong>Week Two (expand for details)</strong></summary><p>
@@ -32,6 +34,8 @@ discussed the milestones to be completed, the user and system requirements.
 - We discussed the skills each of us have and how it would fit into the project.
 </p>
 </details>
+
+***
 
 <details>
 <summary><strong>Week Three (expand for details)</strong></summary><p>
@@ -46,6 +50,8 @@ and set up other meetings to be held everyday.
 - **Hours worked - 8 hours**
 </p>
 </details>
+
+***
 
 <details>
 <summary><strong>Week Four - Iteration 1 (expand for details)</strong></summary><p>
@@ -116,6 +122,8 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 </p>
 </details>
 
+***
+
 <details>
 <summary><strong>Week Five - Iteration 2 (expand for details)</strong></summary><p>
 
@@ -161,10 +169,12 @@ However, I still did some research on DigitalOcean and watch YouTube videos on h
 </p>
 </details>
 
+***
+
 <details>
 <summary><strong>Week Six - Iteration 3 (expand for details)</strong></summary><p>
 
-Wednesday 24th October
+# Wednesday 24th October
 </p>
 </details>
 
