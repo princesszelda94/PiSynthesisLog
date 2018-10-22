@@ -15,8 +15,10 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
 <p>
-# 15th to 19th September
+# 15th to 19th September 
+</p>
 
+<p>
 + This week we discussed on whatsapp, the project we would be doing. We decided
 to choose the same project that we started working on for Software Engineering 1. 
 + We talked about:
