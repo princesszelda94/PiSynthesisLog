@@ -161,7 +161,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li> New Product Owner: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)</li>
     </ul>
     <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
-    <li> **Hours worked - 9 - 12 pm**</li>
+    <li> <strong>Hours worked - 9 - 12 pm</strong></li>
 </ul>
 
 <strong><h1>Tuesday 16th October</h1></strong>
@@ -183,7 +183,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li> We also discussed dipping them in thermally conductive epoxy.</li>
         <li> This outcome had me feeling down as Michael and I worked hard on our code to read sensor values and test them. However, this is just a minor drawback.</li>
     </ul>
-    <li> What I learnt => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. </li>
+    <li> <strong>What I learnt</strong> => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. </li>
 </ul>
 
 <strong><h1>Friday 19th October</h1></strong>
