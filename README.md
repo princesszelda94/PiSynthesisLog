@@ -133,14 +133,19 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> <strong>Hours worked - 6 - 9pm</strong></li>
 </ul>
 
-# Saturday 13th October
-- I watched tutorials and learnt some React to help out with the front-end.
-- I tried to make the web app responsive and look good on a mobile app, but it was of no use.
-- I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.
--- **Hours worked - 10- 4pm**
+<strong><h1>Saturday 13th October</h1></strong>
+<ul>
+    <li> I watched tutorials and learnt some React to help out with the front-end.</li>
+    <li> I tried to make the web app responsive and look good on a mobile app, but it was of no use.</li>
+    <li> I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.</li>
+    <li> <strong>Hours worked - 10- 4pm</strong></li>
+</ul>
 
-# Sunday 14th October
-- I did further research on how to make our system completely autonomous.
+<strong><h1>Sunday 14th October</h1></strong>
+<ul>
+    <li> I did further research on how to make our system completely autonomous.</li>
+</ul>
+
 </details>
 
 ***
