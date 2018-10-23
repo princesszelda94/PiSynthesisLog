@@ -110,7 +110,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
     <li> I also worked with Michael to set up the sensors with the raspberry pi 
     and ensure that it is working.</li>
-    <li> **Hours worked - 6-8pm**</li>
+    <li><strong>Hours worked - 6-8pm</strong></li>
 </ul>
 
 <strong><h1>Wednesday 10th October</h1></strong>
