@@ -66,7 +66,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
     getting a raspberry pi and ensuring that the sensors are working 
     and discussed what we should do for the rest of the week. </li>
-    <li> We discussed who would be the scrum master and product owner for the 1st iteration:
+    <li> We discussed who would be the scrum master and product owner for the 1st iteration:</li>
     <ul>
         <li> Scrum Master: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)</li>
         <li>Product Owner: [Michael Ali](https://github.com/irontarkus95)</li>
