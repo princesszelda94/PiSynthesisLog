@@ -68,7 +68,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and discussed what we should do for the rest of the week. </li>
     <li> We discussed who would be the scrum master and product owner for the 1st iteration:</li>
     <ul>
-        <li>Scrum Master: [Qarun Bissoondial]<a href="https://github.com/Qarun-Qadir-Bissoondial"></li>
+    <li>Scrum Master:<a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
         <li>Product Owner: [Michael Ali](https://github.com/irontarkus95)</li>
     </ul>
     <li> <strong>Hours worked - 1 1/2 hours</strong></li>
