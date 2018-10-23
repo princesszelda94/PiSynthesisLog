@@ -68,8 +68,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and discussed what we should do for the rest of the week. </li>
     <li> We discussed who would be the scrum master and product owner for the 1st iteration:</li>
     <ul>
-    <li>Scrum Master:<a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
-        <li>Product Owner: [Michael Ali](https://github.com/irontarkus95)</li>
+    <li>Scrum Master: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
+    <li>Product Owner: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
     </ul>
     <li> <strong>Hours worked - 1 1/2 hours</strong></li>
 </ul>
@@ -156,8 +156,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
-        <li> New Scrum Master: [Gabriela Sewdhan](https://github.com/princesszelda94)</li>
-        <li> New Product Owner: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)</li>
+    <li> New Scrum Master: <a href="https://github.com/princesszelda94">Gabriela Sewdhan</a></li>
+    <li> New Product Owner: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
     </ul>
     <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
     <li> <strong>Hours worked - 9 - 12 pm</strong></li>
@@ -204,8 +204,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
-        <li> New Scrum Master: [Michael Ali](https://github.com/irontarkus95)</li>
-        <li> New Product Owner: [Kristan Birbalsingh](https://github.com/KCB4Rockstar)</li>
+    <li> New Scrum Master: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
+        <li> New Product Owner: <a href="https://github.com/KCB4Rockstar">Kristan Birbalsingh</a></li>
     </ul>
     <li> We discussed what we completed for the week, what's left to do and problems we ran into.</li>
 </ul>
