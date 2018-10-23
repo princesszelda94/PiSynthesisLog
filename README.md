@@ -35,7 +35,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li>We talked on whatsapp to discuss and complete milestone 1.</li>
     <li>We discussed how we will be meeting for the rest of the semester.</li>
     <li>We discussed the skills each of us have and how it would fit into the project.</li>
-    </ul>
+</ul>
 </p>
 </details>
 
@@ -44,15 +44,15 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Three (expand for details)</strong></summary>
 
-<strong><h1>ist to 5th October</h1></strong><p>
+<strong><h1>1st to 5th October</h1></strong><p>
 <ul>
-<li> We completed the user, system, functional and non-functional requirements.</li>
-<li> We also completed the uml diagrams and specification for the system.</li>
-<li> We had a meeting on Thursday in person to discuss what went on in class 
-and what Kyle said during the meeting. </li>
-<li> We discussed stakeholders, getting the sensors and the raspberry pi 
-and set up other meetings to be held everyday.</li>
-<li> <strong>Hours worked - 8 hours<strong></li>
+    <li> We completed the user, system, functional and non-functional requirements.</li>
+    <li> We also completed the uml diagrams and specification for the system.</li>
+    <li> We had a meeting on Thursday in person to discuss what went on in class 
+    and what Kyle said during the meeting. </li>
+    <li> We discussed stakeholders, getting the sensors and the raspberry pi 
+    and set up other meetings to be held everyday.</li>
+    <li> <strong>Hours worked - 8 hours<strong></li>
 </ul>
 </details>
 
@@ -61,14 +61,18 @@ and set up other meetings to be held everyday.</li>
 <details>
 <summary><strong>Week Four - Iteration 1 (expand for details)</strong></summary>
 
-# Saturday 6th October
-- We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
-getting a raspberry pi and ensuring that the sensors are working 
-and discussed what we should do for the rest of the week. 
-- We discussed who would be the scrum master and product owner for the 1st iteration:
-    - Scrum Master: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)
-    - Product Owner: [Michael Ali](https://github.com/irontarkus95)
-- **Hours worked - 1 1/2 hours**
+<strong><h1>Saturday 6th October</h1></strong>
+<ul>
+    <li> We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
+    getting a raspberry pi and ensuring that the sensors are working 
+    and discussed what we should do for the rest of the week. </li>
+    <li> We discussed who would be the scrum master and product owner for the 1st iteration:
+    <ul>
+        <li> Scrum Master: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)</li>
+        <li>Product Owner: [Michael Ali](https://github.com/irontarkus95)</li>
+    </ul>
+    <li> <strong>Hours worked - 1 1/2 hours</strong></li>
+</ul>
 
 # Sunday 7th October
 - Today I researched on which technology to use between DigitalOcean and Firebase,
