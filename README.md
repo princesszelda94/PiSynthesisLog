@@ -52,7 +52,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and what Kyle said during the meeting. </li>
     <li> We discussed stakeholders, getting the sensors and the raspberry pi 
     and set up other meetings to be held everyday.</li>
-    <li> <strong>Hours worked - 8 hours<strong></li>
+    <li> <strong>Hours worked - 8 hours</strong></li>
+</p>
 </ul>
 </details>
 
@@ -112,19 +113,25 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> **Hours worked - 6-8pm**</li>
 </ul>
 
-# Wednesday 10th October
-- Today, Michael and I could not attend UWI as he became horribly sick 
-and needed to go to the doctor :( 
+<strong><h1>Wednesday 10th October</h1></strong>
+<ul>
+    <li> Today, Michael and I could not attend UWI as he became horribly sick 
+    and needed to go to the doctor :( </li>
+</ul>
 
-# Thursday 11th October
-- Today Michael and I went to the doctor and did not get much done. 
-However, I still did some research on DigitalOcean and watch YouTube videos on how to use it.
-- **Hours worked - 6 - 7:30pm**
+<strong><h1>Thursday 11th October</h1></strong>
+<ul>
+    <li> Today Michael and I went to the doctor and did not get much done.</li>
+    However, I still did some research on DigitalOcean and watch YouTube videos on how to use it.
+    <li> <strong>Hours worked - 6 - 7:30pm</strong></li>
+</ul>
 
-# Friday 12th October
-- Today I researched on how to pull data from the raspberry pi into Firebase.
-- I worked on writing the code to read data from the temperature/humidity sensor.
-- **Hours worked - 6 - 9pm**
+<strong><h1>Friday 12th October</h1></strong>
+<ul>
+    <li> Today I researched on how to pull data from the raspberry pi into Firebase.</li>
+    <li> I worked on writing the code to read data from the temperature/humidity sensor.</li>
+    <li> <strong>Hours worked - 6 - 9pm</strong></li>
+</ul>
 
 # Saturday 13th October
 - I watched tutorials and learnt some React to help out with the front-end.
