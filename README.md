@@ -44,7 +44,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Three (expand for details)</strong></summary>
 
-<strong><h1>1st to 5th October</h1></strong><p>
+<strong><h1>1st to 5th October</h1></strong>
 <ul>
     <li> We completed the user, system, functional and non-functional requirements.</li>
     <li> We also completed the uml diagrams and specification for the system.</li>
@@ -52,8 +52,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and what Kyle said during the meeting. </li>
     <li> We discussed stakeholders, getting the sensors and the raspberry pi 
     and set up other meetings to be held everyday.</li>
-    <li> <strong>Hours worked - 8 hours</strong></li>
-</p>
+    <li><strong>Hours worked - 8 hours</strong></li>
 </ul>
 </details>
 
