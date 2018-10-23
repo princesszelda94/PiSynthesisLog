@@ -211,6 +211,13 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Monday 22nd October</h1></strong>
+<ul>
+    <li> We discussed changing our database from Firebase to a relational database.</li>
+    <li> I conducted some unit tests to test the data types for the sensor code </li>
+    <li> I included try except into my code to test if my libraries, methods and parameters exist</li>
+    <li> I researched the code used and how to setup the Dissolved Oxygent and EC meter</li>
+    <li> <strong>Hours worked - 10pm - 4am </strong> </li>
+</ul>
 
 <strong><h1>Tuesday 23rd October</h1></strong>
 </details>
