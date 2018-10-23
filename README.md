@@ -28,7 +28,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Two (expand for details)</strong></summary>
 
-<strong><h1>24th to 28th September</h1><strong><p>
+<strong><h1>24th to 28th September</h1></strong><p>
 <ul>
     <li>This week we met in person for a meeting, 
     discussed the milestones to be completed, the user and system requirements.</li>
@@ -74,37 +74,43 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> <strong>Hours worked - 1 1/2 hours</strong></li>
 </ul>
 
-# Sunday 7th October
-- Today I researched on which technology to use between DigitalOcean and Firebase,
-made a written Document, documenting the pros and cons, pricing, 
-what they both are and their features. 
-At the end, I decided that using both is best, 
-where DigitalOcean would be used for computing and cloud services, 
-and since it needs a database to be integrated and managed, 
-I decided to integrate Firebase into it since it is the easiest to use 
-and we all have experience with it. It is also much easier to manage.
-- I also created a github organization ‘PiDronics’, 
-created three repos and made develop and feature branches for each of them, 
-pushing the code we had so far. 
-- We had a meeting for an hour at 9:30 pm to talk about the tasks we did and 
-discuss the results we came up with from our research.
-- We decided to use real time db for Firebase, Digital Ocean after for computing, 
-React for the app.
-- I learnt how to use git pages and learnt more about Digital Ocean.
-- **Hours worked – 1-7pm** (lunch was from 4-5)
+<strong><h1>Sunday 7th October</h1></strong>
+<ul>
+    <li> Today I researched on which technology to use between DigitalOcean and Firebase,
+    made a written Document, documenting the pros and cons, pricing, 
+    what they both are and their features. 
+    At the end, I decided that using both is best, 
+    where DigitalOcean would be used for computing and cloud services, 
+    and since it needs a database to be integrated and managed, 
+    I decided to integrate Firebase into it since it is the easiest to use 
+    and we all have experience with it. It is also much easier to manage.</li>
+    <li> I also created a github organization ‘PiDronics’, 
+    created three repos and made develop and feature branches for each of them, 
+    pushing the code we had so far. </li>
+    <li> We had a meeting for an hour at 9:30 pm to talk about the tasks we did and 
+    discuss the results we came up with from our research.</li>
+    <li> We decided to use real time db for Firebase, Digital Ocean after for computing, 
+    React for the app.</li>
+    <li> I learnt how to use git pages and learnt more about Digital Ocean.</li>
+    <li> <strong>Hours worked – 1-7pm</strong> (lunch was from 4-5)</li>
+</ul>
 
-# Monday 8th October
-- Today, I researched on the different sensors needed for hydroponics 
-and the most effective way to automatically keep the environment optimal.
-- I did not get to work as much as I wanted to as I overworked 
-for my job and it was really exhausting. I'm still learning to manage my time.
-- **Hours worked - 5-6pm**
+<strong><h1>Monday 8th October</h1></strong>
+<ul>
+    <li> Today, I researched on the different sensors needed for hydroponics 
+    and the most effective way to automatically keep the environment optimal.</li>
+    <li> I did not get to work as much as I wanted to as I overworked 
+    for my job and it was really exhausting. I'm still learning to manage my time.</li>
+    <li> <strong>Hours worked - 5-6pm</strong></li>
+</ul>
 
-# Tuesday 9th October
-- Today, we met with our first stakeholder and obtained very useful information from 11-12pm.
-- I also worked with Michael to set up the sensors with the raspberry pi 
-and ensure that it is working.
-- **Hours worked - 6-8pm**
+<strong><h1>Tuesday 9th October</h1></strong>
+<ul>
+    <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
+    <li> I also worked with Michael to set up the sensors with the raspberry pi 
+    and ensure that it is working.</li>
+    <li> **Hours worked - 6-8pm**</li>
+</ul>
 
 # Wednesday 10th October
 - Today, Michael and I could not attend UWI as he became horribly sick 
