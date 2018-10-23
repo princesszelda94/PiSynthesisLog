@@ -6,29 +6,19 @@ Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <details>
-<summary><strong>Test (expand for details)</strong></summary>
-<p>
-### sdd
-</p>
-</details>
-
-<details>
 <summary><strong>Week One (expand for details)</strong></summary>
-
-<strong><h1>15th to 19th September</h1></strong>
-
-<p>
+<strong><h1>15th to 19th September</h1></strong><p>
 <ul>
-<li>This week we discussed on whatsapp, the project we would be doing. We decided
-to choose the same project that we started working on for Software Engineering 1. </li>
-<li>We talked about:</li>
-<ul>
-    <li>The importance of getting stakeholders</li>
-    <li>Who are the Stakeholders</li>
-    <li>Shared what we did for Software Engineering 1</li>
-    <li>Discussed how to make the project better</li>
-    <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
-</ul>
+    <li>This week we discussed on whatsapp, the project we would be doing. We decided
+    to choose the same project that we started working on for Software Engineering 1. </li>
+    <li>We talked about:</li>
+    <ul>
+        <li>The importance of getting stakeholders</li>
+        <li>Who are the Stakeholders</li>
+        <li>Shared what we did for Software Engineering 1</li>
+        <li>Discussed how to make the project better</li>
+        <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
+    </ul>
 </ul>
 </p>
 </details>
@@ -38,12 +28,15 @@ to choose the same project that we started working on for Software Engineering 1
 <details>
 <summary><strong>Week Two (expand for details)</strong></summary>
 
-# 24th to 28th September
-- This week we met in person for a meeting, 
-discussed the milestones to be completed, the user and system requirements. 
-- We talked on whatsapp to discuss and complete milestone 1.
-- We discussed how we will be meeting for the rest of the semester.
-- We discussed the skills each of us have and how it would fit into the project.
+<strong><h1>24th to 28th September</h1><strong><p>
+<ul>
+    <li>This week we met in person for a meeting, 
+    discussed the milestones to be completed, the user and system requirements.</li>
+    <li>We talked on whatsapp to discuss and complete milestone 1.</li>
+    <li>We discussed how we will be meeting for the rest of the semester.</li>
+    <li>We discussed the skills each of us have and how it would fit into the project.</li>
+    </ul>
+</p>
 </details>
 
 ***
@@ -51,14 +44,16 @@ discussed the milestones to be completed, the user and system requirements.
 <details>
 <summary><strong>Week Three (expand for details)</strong></summary>
 
-# 1st to 5th October
-- We completed the user, system, functional and non-functional requirements.
-- We also completed the uml diagrams and specification for the system.
-- We had a meeting on Thursday in person to discuss what went on in class 
-and what Kyle said during the meeting. 
-- We discussed stakeholders, getting the sensors and the raspberry pi 
-and set up other meetings to be held everyday.
-- **Hours worked - 8 hours**
+<strong><h1>ist to 5th October</h1></strong><p>
+<ul>
+<li> We completed the user, system, functional and non-functional requirements.</li>
+<li> We also completed the uml diagrams and specification for the system.</li>
+<li> We had a meeting on Thursday in person to discuss what went on in class 
+and what Kyle said during the meeting. </li>
+<li> We discussed stakeholders, getting the sensors and the raspberry pi 
+and set up other meetings to be held everyday.</li>
+<li> <strong>Hours worked - 8 hours<strong></li>
+</ul>
 </details>
 
 ***
