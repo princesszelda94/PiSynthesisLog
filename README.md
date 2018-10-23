@@ -156,8 +156,10 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Monday 15th October</h1></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
+    <ul>
         <li> New Scrum Master: [Gabriela Sewdhan](https://github.com/princesszelda94)</li>
         <li> New Product Owner: [Qarun Bissoondial](https://github.com/Qarun-Qadir-Bissoondial)</li>
+    </ul>
     <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
     <li> **Hours worked - 9 - 12 pm**</li>
 </ul>
@@ -176,17 +178,21 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Thursday 18th October</h1></strong>
 <ul>
     <li> I worked with Michael to test if the sensors we had could be submerged. It could not as our sensors do not work in a moisture rich environment.</li>
+    <ul>
         <li> We researched ways to coat the sensors and coated them in a shrink-wrap.</li>
         <li> We also discussed dipping them in thermally conductive epoxy.</li>
         <li> This outcome had me feeling down as Michael and I worked hard on our code to read sensor values and test them. However, this is just a minor drawback.</li>
+    </ul>
     <li> What I learnt => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. </li>
 </ul>
 
 <strong><h1>Friday 19th October</h1></strong>
 <ul>
     <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
+    <ul>
         <li> Outcome - The libraries did not work the same for the pi3 as it did for the pi2.</li>
         <li> We researched and found ways for our sensor code to work on both the pi2 and pi3.</li>
+    </ul>
 </ul>
 
 <strong><h1>Saturday 20th October</h1></strong>
@@ -198,8 +204,10 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Sunday 21st October</h1></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
+    <ul>
         <li> New Scrum Master: [Michael Ali](https://github.com/irontarkus95)</li>
         <li> New Product Owner: [Kristan Birbalsingh](https://github.com/KCB4Rockstar)</li>
+    </ul>
     <li> We discussed what we completed for the week, what's left to do and problems we ran into.</li>
 </ul>
 
