@@ -10,7 +10,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>15th to 19th September</h1></strong><p>
 <ul>
     <li>This week we discussed on whatsapp, the project we would be doing. We decided
-    to choose the same project that we started working on for Software Engineering 1. </li>
+    to choose the same project that we started working on for Software Engineering 1 and HackAgainstHunger. </li>
     <li>We talked about:</li>
     <ul>
         <li>The importance of getting stakeholders</li>
@@ -21,12 +21,17 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 </ul>
 
-<strong><h3>Lessons Learnt -</h3></strong>
+<strong><h3>Thoughts -</h3></strong>
     <ul>
         <li>I am very excited for the course as it is fully practical and involves developing a fully functional product that can be ready for release.</li>
         <li>I did however wonder how I would be able to handle both work and school as there was already enough pressure at work.</li>
         <li>I am very glad we continued with the automated hydroponics idea as I hope we can assist the world in providing a steady supply of food</li>
         <li>I am also very excited to work on more hardware as well as design and development of an app.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>User and Stakeholder feedback is of most importance when developing a product for customers. This was learnt in both my work environment and from class. Without stakeholders and users, we, as developers, would never be 100% what the customer wants.</li>
     </ul>
     
     <h3>Hours worked - </h3>
