@@ -1,4 +1,4 @@
-# Welcome to my individual log page
+# Individual Logs for PiSynthesis
 
 Name: Gabriela Sewdhan <br>
 ID: 813001696 <br>
@@ -34,8 +34,10 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li>User and Stakeholder feedback is of most importance when developing a product for customers. This was learnt in both my work environment and from class. Without stakeholders and users, we, as developers, would never be 100% what the customer wants.</li>
     </ul>
     
-    <h3>Hours worked - </h3>
-    <li>This week we just discussed and gathered information for around 3 hours.</li>
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>This week we just discussed and gathered information for around 3 hours.</li>
+    </ul>
 </p>
 </details>
 
@@ -49,9 +51,21 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li>This week we met in person for a meeting, 
     discussed the milestones to be completed, the user and system requirements.</li>
     <li>We talked on whatsapp to discuss and complete milestone 1.</li>
-    <li>We discussed how we will be meeting for the rest of the semester.</li>
-    <li>We discussed the skills each of us have and how it would fit into the project.</li>
+    <li>We discussed how we will be meeting for the rest of the semester and decided to use both slack and whatsapp for messaging, and hangouts for video meetings.</li>
+    <li>We discussed the skills each of us have and how it would fit into the project. Since Michael Ali and I had experience with the raspberry pi and sensors from doing research with Dr. Mohammed, as well as from mentoring for the DCIT Bootcamp, we were choosen for the hardware component of the project.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Since we had most of the tasks completed for milestone from software engineering 1, there was not much to do, which was beneficial to me as work was taking up most of my time.</li>
+        <li>Even though automation was the most important feature for our product, we decided to take it our for the scope of this project as obtaining the equipment as well as time, were constraints.</li>
+        <li>Even though my work would mostly be on the hardware aspect of the project, I have a passion for design and decided that I would also aid with the design and development of the app.</li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>This week we also discussed and gathered information for around 4 hours.</li>
+    </ul>
 </p>
 </details>
 
