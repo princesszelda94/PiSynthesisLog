@@ -8,6 +8,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week One (expand for details)</strong></summary>
 <strong><h1>15th to 19th September</h1></strong><p>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>This week we discussed on whatsapp, the project we would be doing. We decided
     to choose the same project that we started working on for Software Engineering 1 and HackAgainstHunger. </li>
@@ -47,6 +49,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Two (expand for details)</strong></summary>
 
 <strong><h1>24th to 28th September</h1></strong><p>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>This week we met in person for a meeting, 
     discussed the milestones to be completed, the user and system requirements.</li>
