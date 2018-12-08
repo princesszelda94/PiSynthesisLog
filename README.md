@@ -173,7 +173,6 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and the most effective way to automatically keep the environment optimal.</li>
     <li> I did not get to work as much as I wanted to as I overworked 
     for my job and it was really exhausting. I'm still learning to manage my time.</li>
-    <li> <strong>Hours worked - 5-6pm</strong></li>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
@@ -203,12 +202,12 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>Our first stakeholder was Mr. Rakesh Bhukal, as lecturer and researcher at the Department of Life Sciences. We gained valuable information from him and realised that we were using the wrong sensors the entire time, as our sensors needs to be submerged into a reservoir. Therefore, Michael and I had to start over for the hardware aspect of the development of the product and source EC, pH and Dissolved Oxygen probes. However, the humidity sensor was still useful as it need not be submerged.</li>
+        <li>Our first stakeholder was Mr. Rakesh Bhukal, as lecturer and researcher at the Department of Life Sciences. We gained valuable information from him and realised that we were using the wrong sensors the entire time, as our sensors needs to be submerged into a reservoir. Therefore, Michael and I had to find a way to make the sensors submergible.</li>
     </ul>
     
 <strong><h3>Lessons Learnt -</h3></strong>
     <ul>
-        <li>I, as well as Michael Ali, learnt that sometimes, during development, work done for a sprint has be to destroyed due to not being useful, as we would have to start over from scratch. However, this is a learning experience and we will know better next time when building a similar product.</li>
+        <li>Even though the sensors we have cannot be submerged, we decided to still work on it for proof of concept and to further our own knowledge when it comes to sensor code and testing.</li>
     </ul>
 
 <strong><h3>Hours worked - </h3></strong>
@@ -225,13 +224,21 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     and needed to go to the doctor :( </li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Michael Ali had overbearing stress of driving to St. James to work for Monday to Wednesday and Friday, as well as driving to UWI for classes on Thursday. The tasks set out was too much for us to handle along with school and it affected Michael's health. However, our health is more important than a job and we should learn to prioritize taking care of ourselves.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>Health is our wealth. If we die trying to win a nobel prize, we won't be there to reap the awards.</li>
+    </ul>
+
 <strong><h1>Thursday 11th October</h1></strong>
 
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today Michael and I went to the doctor and did not get much done.</li>
-    However, I still did some research on DigitalOcean and watch YouTube videos on how to use it.
-    <li> <strong>Hours worked - 6 - 7:30pm</strong></li>
 </ul>
 
 <strong><h1>Friday 12th October</h1></strong>
@@ -240,8 +247,13 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Today I researched on how to pull data from the raspberry pi into Firebase.</li>
     <li> I worked on writing the code to read data from the temperature/humidity sensor.</li>
-    <li> <strong>Hours worked - 6 - 9pm</strong></li>
 </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6-9pm - 3 Hours</li>
+    </ul>
+    
 
 <strong><h1>Saturday 13th October</h1></strong>
 
@@ -250,15 +262,22 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> I watched tutorials and learnt some React to help out with the front-end.</li>
     <li> I tried to make the web app responsive and look good on a mobile app, but it was of no use.</li>
     <li> I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.</li>
-    <li> <strong>Hours worked - 10- 4pm</strong></li>
 </ul>
 
-<strong><h1>Sunday 14th October</h1></strong>
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Although React Native would be preferred as you can deploy to both iOS and Android, React was extremely fun to learn. I already had some knowledge from React Native during my internship where I worked on the interface and design for a chatbot and dispute screen. I always feel at ease when developing front-end and I am excited to put in more work to the front-end.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I gained a deeper understand of React and learnt from Qarun how to unit test React components and run the tests.</li>
+    </ul>
 
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> I did further research on how to make our system completely autonomous.</li>
-</ul>
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10-4pm - 6 Hours</li>
+    </ul>
 
 </details>
 
