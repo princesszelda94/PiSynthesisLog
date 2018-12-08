@@ -204,8 +204,23 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
     <li> I also worked with Michael to set up the sensors with the raspberry pi 
     and ensure that it is working.</li>
-    <li><strong>Hours worked - 6-8pm</strong></li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Our first stakeholder was Mr. Rakesh Bhukal, as lecturer and researcher at the Department of Life Sciences. We gained valuable information from him and realised that we were using the wrong sensors the entire time, as our sensors needs to be submerged into a reservoir. Therefore, Michael and I had to start over for the hardware aspect of the development of the product and source EC, pH and Dissolved Oxygen probes. However, the humidity sensor was still useful as it need not be submerged.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I, as well as Michael Ali, learnt that sometimes, during development, work done for a sprint has be to destroyed due to not being useful, as we would have to start over from scratch. However, this is a learning experience and we will know better next time when building a similar product.</li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6-8pm - 2 Hours</li>
+    </ul>
+    
 
 <strong><h1>Wednesday 10th October</h1></strong>
 
