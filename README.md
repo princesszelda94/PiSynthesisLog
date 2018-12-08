@@ -23,12 +23,14 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <strong><h3>Lessons Learnt -</h3></strong>
     <ul>
-        <li>The importance of getting stakeholders</li>
-        <li>Who are the Stakeholders</li>
-        <li>Shared what we did for Software Engineering 1</li>
-        <li>Discussed how to make the project better</li>
-        <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
+        <li>I am very excited for the course as it is fully practical and involves developing a fully functional product that can be ready for release.</li>
+        <li>I did however wonder how I would be able to handle both work and school as there was already enough pressure at work.</li>
+        <li>I am very glad we continued with the automated hydroponics idea as I hope we can assist the world in providing a steady supply of food</li>
+        <li>I am also very excited to work on more hardware as well as design and development of an app.</li>
     </ul>
+    
+    <h3>Hours worked - </h3>
+    <li>This week we just discussed and gathered information for around 3 hours.</li>
 </p>
 </details>
 
