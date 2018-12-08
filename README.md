@@ -270,7 +270,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 ***
 
 <details>
-<summary><strong>Week Five - Iteration 2 (expand for details)</strong></summary>
+<summary><strong>Week Five - Week Six - Iteration 2 (expand for details)</strong></summary>
 
 <strong><h1>Monday 15th October</h1></strong>
 <ul>
@@ -345,9 +345,17 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 ***
 
 <details>
-<summary><strong>Week Six - Iteration 3 (expand for details)</strong></summary>
+<summary><strong>Week Six - Seven - Iteration 3 (expand for details)</strong></summary>
 
 <strong><h1>Wednesday 24th October</h1></strong>
+</details>
+
+***
+
+<details>
+<summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
+
+<strong><h1>Tuesday 6th November</h1></strong>
 </details>
 
 ***
