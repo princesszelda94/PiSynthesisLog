@@ -20,6 +20,15 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
     </ul>
 </ul>
+
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>The importance of getting stakeholders</li>
+        <li>Who are the Stakeholders</li>
+        <li>Shared what we did for Software Engineering 1</li>
+        <li>Discussed how to make the project better</li>
+        <li>Discussed the importance of communicating with stakeholders to develop the system.</li>
+    </ul>
 </p>
 </details>
 
