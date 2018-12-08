@@ -5,19 +5,19 @@ ID: 813001696 <br>
 Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
-<h1>General Thoughts about the course.</h1>
+<h2>General Thoughts about the course.</h2>
 
 ***
 
-<h1>Overall Lessons learnt.</h1>
+<h2>Overall Lessons learnt.</h2>
 
 ***
 
-<h1>What went well.</h1>
+<h2>What went well.</h2>
 
 ***
 
-<h1>What I can do better or would do differrently.</h1>
+<h2>What I can do better or would do differrently.</h2>
 
 ***
 
