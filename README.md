@@ -17,7 +17,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 ***
 
-<h1>What I can do better.</h1>
+<h1>What I can do better or would do differrently.</h1>
 
 ***
 
