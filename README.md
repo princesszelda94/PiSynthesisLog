@@ -18,7 +18,13 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Six - Seven - Iteration 3 (expand for details)</strong></summary>
 
-<strong><h1>Wednesday 24th October</h1></strong>
+<strong><h1>Wednesday 31st October</h1></strong>
+
+<strong><h1>Tuesday 30th October</h1></strong>
+
+<strong><h1>Sunday 28th October</h1></strong>
+
+<strong><h1>Saturday 27th October</h1></strong>
 </details>
 
 ***
@@ -26,26 +32,40 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Five - Week Six - Iteration 2 (expand for details)</strong></summary>
 
-<strong><h1>Monday 15th October</h1></strong>
+<strong><h1>Tuesday 23rd October</h1></strong>
+
+<strong><h1>Monday 22nd October</h1></strong>
+<ul>
+    <li> We discussed changing our database from Firebase to a relational database.</li>
+    <li> I conducted some unit tests to test the data types for the sensor code </li>
+    <li> I included try except into my code to test if my libraries, methods and parameters exist</li>
+    <li> I researched the code used and how to setup the Dissolved Oxygen and EC meters</li>
+    <li> <strong>Hours worked - 10pm - 4am </strong> </li>
+</ul>
+
+<strong><h1>Sunday 21st October</h1></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
-    <li> New Scrum Master: <a href="https://github.com/princesszelda94">Gabriela Sewdhan</a></li>
-    <li> New Product Owner: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
+    <li> New Scrum Master: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
+        <li> New Product Owner: <a href="https://github.com/KCB4Rockstar">Kristan Birbalsingh</a></li>
     </ul>
-    <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
-    <li> <strong>Hours worked - 9 - 12 pm</strong></li>
+    <li> We discussed what we completed for the week, what's left to do and problems we ran into.</li>
 </ul>
 
-<strong><h1>Tuesday 16th October</h1></strong>
+<strong><h1>Saturday 20th October</h1></strong>
 <ul>
-    <li> I worked with Michael to pull the sensor values into firebase and into the web app.</li>
-    <li> We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".</li>
+    <li> I worked with Michael to write sensor code to pull data from both the pi2 and pi3. </li>
+    <li> I also unit tested the functions used in the sensor code.</li>
 </ul>
 
-<strong><h1>Wednesday 17th October</h1></strong>
+<strong><h1>Friday 19th October</h1></strong>
 <ul>
-    <li> We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot and feel like we should make code reviews a regular thing.</li>
+    <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
+    <ul>
+        <li> Outcome - The libraries did not work the same for the pi3 as it did for the pi2.</li>
+        <li> We researched and found ways for our sensor code to work on both the pi2 and pi3.</li>
+    </ul>
 </ul>
 
 <strong><h1>Thursday 18th October</h1></strong>
@@ -59,41 +79,29 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> <strong>What I learnt</strong> => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. </li>
 </ul>
 
-<strong><h1>Friday 19th October</h1></strong>
+<strong><h1>Wednesday 17th October</h1></strong>
 <ul>
-    <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
-    <ul>
-        <li> Outcome - The libraries did not work the same for the pi3 as it did for the pi2.</li>
-        <li> We researched and found ways for our sensor code to work on both the pi2 and pi3.</li>
-    </ul>
+    <li> We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot and feel like we should make code reviews a regular thing.</li>
 </ul>
 
-<strong><h1>Saturday 20th October</h1></strong>
+<strong><h1>Tuesday 16th October</h1></strong>
 <ul>
-    <li> I worked with Michael to write sensor code to pull data from both the pi2 and pi3. </li>
-    <li> I also unit tested the functions used in the sensor code.</li>
+    <li> I worked with Michael to pull the sensor values into firebase and into the web app.</li>
+    <li> We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".</li>
 </ul>
 
-<strong><h1>Sunday 21st October</h1></strong>
+
+<strong><h1>Monday 15th October</h1></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
-    <li> New Scrum Master: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
-        <li> New Product Owner: <a href="https://github.com/KCB4Rockstar">Kristan Birbalsingh</a></li>
+    <li> New Scrum Master: <a href="https://github.com/princesszelda94">Gabriela Sewdhan</a></li>
+    <li> New Product Owner: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
     </ul>
-    <li> We discussed what we completed for the week, what's left to do and problems we ran into.</li>
+    <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
+    <li> <strong>Hours worked - 9 - 12 pm</strong></li>
 </ul>
 
-<strong><h1>Monday 22nd October</h1></strong>
-<ul>
-    <li> We discussed changing our database from Firebase to a relational database.</li>
-    <li> I conducted some unit tests to test the data types for the sensor code </li>
-    <li> I included try except into my code to test if my libraries, methods and parameters exist</li>
-    <li> I researched the code used and how to setup the Dissolved Oxygen and EC meters</li>
-    <li> <strong>Hours worked - 10pm - 4am </strong> </li>
-</ul>
-
-<strong><h1>Tuesday 23rd October</h1></strong>
 </details>
 
 
@@ -102,31 +110,121 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Four - Iteration 1 (expand for details)</strong></summary>
 
-<strong><h1>Saturday 6th October</h1></strong>
+<strong><h1>Saturday 13th October</h1></strong>
 
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li> We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
-    getting a raspberry pi and ensuring that the sensors are working 
-    and discussed what we should do for the rest of the week. </li>
-    <li> We discussed who would be the scrum master and product owner for the 1st iteration:</li>
-    <ul>
-    <li>Scrum Master: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
-    <li>Product Owner: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
-    </ul>
+    <li> I watched tutorials and learnt some React to help out with the front-end.</li>
+    <li> I tried to make the web app responsive and look good on a mobile app, but it was of no use.</li>
+    <li> I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.</li>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>Qarun Bissoondial was chosen as the first scrum master as he had the most leadership like qualities and will ensure we get our tasks done.</li>
-        <li>Michael Ali was chosen as the first product owner as the idea is originally his.</li>
-        <li>I am excited for my chance to be a Scrum Master as I love making and managing tasks and would love to be the leader of my team. However, I am still very shy and find it hard to tell people what to do. This is something I am currently working on and hope to improve throughout the semester.</li>
+        <li>Although React Native would be preferred as you can deploy to both iOS and Android, React was extremely fun to learn. I already had some knowledge from React Native during my internship where I worked on the interface and design for a chatbot and dispute screen. I always feel at ease when developing front-end and I am excited to put in more work to the front-end.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I gained a deeper understand of React and learnt from Qarun how to unit test React components and run the tests.</li>
     </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
-        <li>1 1/2 Hourss</li>
+        <li>10-4pm - 6 Hours</li>
     </ul>
+  
+  
+<strong><h1>Friday 12th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Today I researched on how to pull data from the raspberry pi into Firebase.</li>
+    <li> I worked on writing the code to read data from the temperature/humidity sensor.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6-9pm - 3 Hours</li>
+    </ul>
+  
+  
+<strong><h1>Thursday 11th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Today Michael and I went to the doctor and did not get much done.</li>
+</ul>  
+
+<strong><h1>Wednesday 10th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Today, Michael and I could not attend UWI as he became horribly sick 
+    and needed to go to the doctor :( </li>
+</ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Michael Ali had overbearing stress of driving to St. James to work for Monday to Wednesday and Friday, as well as driving to UWI for classes on Thursday. The tasks set out was too much for us to handle along with school and it affected Michael's health. However, our health is more important than a job and we should learn to prioritize taking care of ourselves.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>Health is our wealth. If we die trying to win a nobel prize, we won't be there to reap the awards.</li>
+    </ul>
+
+
+<strong><h1>Tuesday 9th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
+    <li> I also worked with Michael to set up the sensors with the raspberry pi 
+    and ensure that it is working.</li>
+</ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Our first stakeholder was Mr. Rakesh Bhukal, as lecturer and researcher at the Department of Life Sciences. We gained valuable information from him and realised that we were using the wrong sensors the entire time, as our sensors needs to be submerged into a reservoir. Therefore, Michael and I had to find a way to make the sensors submergible.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>Even though the sensors we have cannot be submerged, we decided to still work on it for proof of concept and to further our own knowledge when it comes to sensor code and testing.</li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6-8pm - 2 Hours</li>
+    </ul>
+
+<strong><h1>Monday 8th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Today, I researched on the different sensors needed for hydroponics 
+    and the most effective way to automatically keep the environment optimal.</li>
+    <li> I did not get to work as much as I wanted to as I overworked 
+    for my job and it was really exhausting. I'm still learning to manage my time.</li>
+</ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>I have a problem of being a perfectionist. I wanted to finish all my tasks fully for my internship to give a good impression. However, since every technology I had to implement was new to me, I spent many hours and days working on the same issue and overworked myself to exhaustion. I know that if I keep this up, I will not be able to focus on my school work as much as I would like to. Thus, I am trying my hardest to change.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I found many different sensors we can use for Hydroponics monitoring. I also found the code to use for some of the relevant sensors - Humidity, Temperature and EC sensors.</li>
+        <li>Management of time and prioritization of tasks that are due first, is extremely important to be successfull in life. </li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>5-6pm - 1 Hour</li>
+    </ul>
+
 
 <strong><h1>Sunday 7th October</h1></strong>
 
@@ -165,118 +263,30 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li>1-7pm - 6 Hours (lunch was from 4-5)</li>
     </ul>
 
-<strong><h1>Monday 8th October</h1></strong>
+<strong><h1>Saturday 6th October</h1></strong>
 
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li> Today, I researched on the different sensors needed for hydroponics 
-    and the most effective way to automatically keep the environment optimal.</li>
-    <li> I did not get to work as much as I wanted to as I overworked 
-    for my job and it was really exhausting. I'm still learning to manage my time.</li>
+    <li> We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
+    getting a raspberry pi and ensuring that the sensors are working 
+    and discussed what we should do for the rest of the week. </li>
+    <li> We discussed who would be the scrum master and product owner for the 1st iteration:</li>
+    <ul>
+    <li>Scrum Master: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
+    <li>Product Owner: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
+    </ul>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>I have a problem of being a perfectionist. I wanted to finish all my tasks fully for my internship to give a good impression. However, since every technology I had to implement was new to me, I spent many hours and days working on the same issue and overworked myself to exhaustion. I know that if I keep this up, I will not be able to focus on my school work as much as I would like to. Thus, I am trying my hardest to change.</li>
-    </ul>
-    
-<strong><h3>Lessons Learnt -</h3></strong>
-    <ul>
-        <li>I found many different sensors we can use for Hydroponics monitoring. I also found the code to use for some of the relevant sensors - Humidity, Temperature and EC sensors.</li>
-        <li>Management of time and prioritization of tasks that are due first, is extremely important to be successfull in life. </li>
+        <li>Qarun Bissoondial was chosen as the first scrum master as he had the most leadership like qualities and will ensure we get our tasks done.</li>
+        <li>Michael Ali was chosen as the first product owner as the idea is originally his.</li>
+        <li>I am excited for my chance to be a Scrum Master as I love making and managing tasks and would love to be the leader of my team. However, I am still very shy and find it hard to tell people what to do. This is something I am currently working on and hope to improve throughout the semester.</li>
     </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
-        <li>5-6pm - 1 Hour</li>
-    </ul>
-
-<strong><h1>Tuesday 9th October</h1></strong>
-
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
-    <li> I also worked with Michael to set up the sensors with the raspberry pi 
-    and ensure that it is working.</li>
-</ul>
-
-<strong><h3>Thoughts -</h3></strong>
-    <ul>
-        <li>Our first stakeholder was Mr. Rakesh Bhukal, as lecturer and researcher at the Department of Life Sciences. We gained valuable information from him and realised that we were using the wrong sensors the entire time, as our sensors needs to be submerged into a reservoir. Therefore, Michael and I had to find a way to make the sensors submergible.</li>
-    </ul>
-    
-<strong><h3>Lessons Learnt -</h3></strong>
-    <ul>
-        <li>Even though the sensors we have cannot be submerged, we decided to still work on it for proof of concept and to further our own knowledge when it comes to sensor code and testing.</li>
-    </ul>
-
-<strong><h3>Hours worked - </h3></strong>
-    <ul>
-        <li>6-8pm - 2 Hours</li>
-    </ul>
-    
-
-<strong><h1>Wednesday 10th October</h1></strong>
-
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> Today, Michael and I could not attend UWI as he became horribly sick 
-    and needed to go to the doctor :( </li>
-</ul>
-
-<strong><h3>Thoughts -</h3></strong>
-    <ul>
-        <li>Michael Ali had overbearing stress of driving to St. James to work for Monday to Wednesday and Friday, as well as driving to UWI for classes on Thursday. The tasks set out was too much for us to handle along with school and it affected Michael's health. However, our health is more important than a job and we should learn to prioritize taking care of ourselves.</li>
-    </ul>
-    
-<strong><h3>Lessons Learnt -</h3></strong>
-    <ul>
-        <li>Health is our wealth. If we die trying to win a nobel prize, we won't be there to reap the awards.</li>
-    </ul>
-
-<strong><h1>Thursday 11th October</h1></strong>
-
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> Today Michael and I went to the doctor and did not get much done.</li>
-</ul>
-
-<strong><h1>Friday 12th October</h1></strong>
-
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> Today I researched on how to pull data from the raspberry pi into Firebase.</li>
-    <li> I worked on writing the code to read data from the temperature/humidity sensor.</li>
-</ul>
-
-<strong><h3>Hours worked - </h3></strong>
-    <ul>
-        <li>6-9pm - 3 Hours</li>
-    </ul>
-    
-
-<strong><h1>Saturday 13th October</h1></strong>
-
-<strong><h3>Tasks Completed -</h3></strong>
-<ul>
-    <li> I watched tutorials and learnt some React to help out with the front-end.</li>
-    <li> I tried to make the web app responsive and look good on a mobile app, but it was of no use.</li>
-    <li> I discussed with my team, possible designs and ways to make the app look good on mobile while also being readable and neat.</li>
-</ul>
-
-<strong><h3>Thoughts -</h3></strong>
-    <ul>
-        <li>Although React Native would be preferred as you can deploy to both iOS and Android, React was extremely fun to learn. I already had some knowledge from React Native during my internship where I worked on the interface and design for a chatbot and dispute screen. I always feel at ease when developing front-end and I am excited to put in more work to the front-end.</li>
-    </ul>
-    
-<strong><h3>Lessons Learnt -</h3></strong>
-    <ul>
-        <li>I gained a deeper understand of React and learnt from Qarun how to unit test React components and run the tests.</li>
-    </ul>
-
-<strong><h3>Hours worked - </h3></strong>
-    <ul>
-        <li>10-4pm - 6 Hours</li>
+        <li>1 1/2 Hourss</li>
     </ul>
 
 </details>
