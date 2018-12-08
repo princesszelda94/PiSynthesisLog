@@ -108,6 +108,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Four - Iteration 1 (expand for details)</strong></summary>
 
 <strong><h1>Saturday 6th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We had a meeting at 9:30 pm for an hour to discuss the contact of stakeholder, 
     getting a raspberry pi and ensuring that the sensors are working 
@@ -117,10 +119,23 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li>Scrum Master: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
     <li>Product Owner: <a href="https://github.com/irontarkus95">Michael Ali</a></li>
     </ul>
-    <li> <strong>Hours worked - 1 1/2 hours</strong></li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Qarun Bissoondial was chosen as the first scrum master as he had the most leadership like qualities and will ensure we get our tasks done.</li>
+        <li>Michael Ali was chosen as the first product owner as the idea is originally his.</li>
+        <li>I am excited for my chance to be a Scrum Master as I love making and managing tasks and would love to be the leader of my team. However, I am still very shy and find it hard to tell people what to do. This is something I am currently working on and hope to improve throughout the semester.</li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>1 1/2 Hourss</li>
+    </ul>
+
 <strong><h1>Sunday 7th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today I researched on which technology to use between DigitalOcean and Firebase,
     made a written Document, documenting the pros and cons, pricing, 
@@ -138,10 +153,26 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> We decided to use real time db for Firebase, Digital Ocean after for computing, 
     React for the app.</li>
     <li> I learnt how to use git pages and learnt more about Digital Ocean.</li>
-    <li> <strong>Hours worked – 1-7pm</strong> (lunch was from 4-5)</li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Even though we decided to use Firebase for the database for now due to the familiarity and ease of use, we will still use an SQL database after the course for our completed product.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>During my internship, I had to do many written reports and research on different technologies before choosing one as I worked with new technologies. This skill helped me to complete a written report for DigitalOcean vs Firebase very quickly.</li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>1-7pm - 6 Hours (lunch was from 4-5)</li>
+    </ul>
+
 <strong><h1>Monday 8th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today, I researched on the different sensors needed for hydroponics 
     and the most effective way to automatically keep the environment optimal.</li>
@@ -150,7 +181,25 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> <strong>Hours worked - 5-6pm</strong></li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>I have a problem of being a perfectionist. I wanted to finish all my tasks fully for my internship to give a good impression. However, since every technology I had to implement was new to me, I spent many hours and days working on the same issue and overworked myself to exhaustion. I know that if I keep this up, I will not be able to focus on my school work as much as I would like to. Thus, I am trying my hardest to change.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I found many different sensors we can use for Hydroponics monitoring. I also found the code to use for some of the relevant sensors - Humidity, Temperature and EC sensors.</li>
+        <li>Management of time and prioritization of tasks that are due first, is extremely important to be successfull in life. </li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>5-6pm - 1 Hour</li>
+    </ul>
+
 <strong><h1>Tuesday 9th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today, we met with our first stakeholder and obtained very useful information from 11-12pm.</li>
     <li> I also worked with Michael to set up the sensors with the raspberry pi 
@@ -159,12 +208,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Wednesday 10th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today, Michael and I could not attend UWI as he became horribly sick 
     and needed to go to the doctor :( </li>
 </ul>
 
 <strong><h1>Thursday 11th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today Michael and I went to the doctor and did not get much done.</li>
     However, I still did some research on DigitalOcean and watch YouTube videos on how to use it.
@@ -172,6 +225,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Friday 12th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Today I researched on how to pull data from the raspberry pi into Firebase.</li>
     <li> I worked on writing the code to read data from the temperature/humidity sensor.</li>
@@ -179,6 +234,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Saturday 13th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I watched tutorials and learnt some React to help out with the front-end.</li>
     <li> I tried to make the web app responsive and look good on a mobile app, but it was of no use.</li>
@@ -187,6 +244,8 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Sunday 14th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I did further research on how to make our system completely autonomous.</li>
 </ul>
