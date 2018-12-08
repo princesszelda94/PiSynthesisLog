@@ -79,15 +79,27 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Three (expand for details)</strong></summary>
 
 <strong><h1>1st to 5th October</h1></strong>
+
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We completed the user, system, functional and non-functional requirements.</li>
     <li> We also completed the uml diagrams and specification for the system.</li>
     <li> We had a meeting on Thursday in person to discuss what went on in class 
     and what Kyle said during the meeting. </li>
     <li> We discussed stakeholders, getting the sensors and the raspberry pi 
-    and set up other meetings to be held everyday.</li>
-    <li><strong>Hours worked - 8 hours</strong></li>
+    and we set up other meetings to be held everyday where we would just tell each other what we worked on, our progress, and what we plan to do for that day.</li>
 </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>Michael Ali and my ongoing internship came in handy for Scrum as we took what we learnt from doing scrum meetings everyday at work, and applied it to our project. Before I used to think once I get the product completed, that is the most important thing in software development. However, both my classes and work thought me that software development is not only about the code, but also about being professional, meeting deadlines, having sprints and scrum meetings, having or being a leader and organising tasks beforehand.</li>
+        <li>I have also learnt that communication is of utmost importance.</li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>8 Hours</li>
+    </ul>
 </details>
 
 ***
