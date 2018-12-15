@@ -132,11 +132,21 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> I also unit tested the functions used in the sensor code.</li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Testing for the sensor code was not too much to do as most of the code are static. Thus we just had to test the if the libraries are being used, if the functions are being called, the parameters and ranges.</li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>2 - 7 pm - 5 Hours</li>
+    </ul>
+
 <strong><h1>Friday 19th October</h1></strong>
 <ul>
     <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
     <ul>
-        <li> Outcome - It works as it shouldn't matter.</li>
+        <li> Outcome - It works.</li>
     </ul>
 </ul>
 
@@ -152,7 +162,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>We have had regular sprint retros where we show each other what we did and explained it. However, we have not had a proper code review like this where we went through line by line and explained the code. It helped me understand everything a lot better in terms of code and what everyone else is doing.</li>
+        <li>Sometimes it is okay to start over from scratch. As long as the product will benefit the stakeholders and users, we will put in as much work as needed! :D However, if we had talked to the stakeholder before starting the product, we would have known to get probes from the beginning. We did try however, but contact was difficult at first as the stakeholders were busy.</li>
     </ul>
     
 <strong><h3>Lessons Learnt -</h3></strong>
