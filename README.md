@@ -165,7 +165,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <strong><h1>Tuesday 6th November</h1></strong>
 <ul>
-    <li> Michael and I met with a new stakeholder, Ananda Ramlochan, and told him about what we are doing and what we planned to do. We obtained great feedback for our system and he was all for helping us and allowing us to deploy on his hydroponics farms.</li>
+    <li> Michael and I had a follow-up meeting with the stakeholder, Ananda Ramlochan. We planned to deploy soon to his hydroponic farm.</li>
 </ul>
     
 </details>
