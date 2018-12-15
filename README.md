@@ -6,18 +6,41 @@ Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <h2>General Thoughts about the course.</h2>
-
+<ul>
+    <li> This was a course that I was expecting when I starting my Computer Science Degree. It is a very important course and I am so glad I got to do it. Before, I would think that all I have to do is just code and get the system working and that's it. However, this course taught me that there is so much more to software engineering and programming than that. The business aspects, the scrum structure which is so beneficial when working in teams, the stakeholders, writing abstracted, tested code so that it remains of a high quality. This is one of the courses that is defintely beneficial for my future in software development.</li>
+</ul>
 ***
 
 <h2>Overall Lessons learnt.</h2>
+<ul>
+    <li>Do not take on too many things at a time. The internship that ran until the end of October really took away our time from school. I am glad I got to complete the internship, but I also wished it was not the same time as school. Handling both was extremely stressful.</li>
+    <li>Always design before coding. Normally I jump right into the code and the design comes throughout. However, having a design before saves time and improves the structure of the code where you will know exactly what to do, instead of jumping in with no direction.</li>
+    <li>Testing and abstracting code is extremely important for highly maintainable and high quality code.</li>
+    <li>Sleep and physical and mental health is important. Even though I have learnt this lesson so many times, I am still stubborn as I always want to e.g. Ensure my assignment is perfect, even though it gets me sick. However, I am slowly learning to take care of myself and not kill myself over school work.</li>
+
+</ul>
 
 ***
 
 <h2>What went well.</h2>
+<ul>
+    <li>I gained so much new programming skills; I learnt React, how to test react components, how to abstract code, the business side of developing a product, communicating with stakeholders, and most importantly, the Scrum structure.</li>
+    <li>Getting the hardware components to work was very tedious and long. There were so many problems. However, Michael and I got it to work at the end.</li>
+</ul>
 
 ***
 
+<h2>Challenges</h2>
+<ul>
+    <li>The hardware components were extremely hard to obtain. We were so lucky that Kristan had a pH probe. This was a main issue as the main requirement for our project was the monitoring aspect. However, we pulled through and was lucky that the pH sensor also accounted for temperature.</li>
+    <li>I think that having Human Computer Interaction and Software engineeering 2 in the same semester was not a good idea. However, I may just be thinking this as HCI started in the middle of the semester and there was a rush to finish all the project components. It hindered me for my other courses, particularly software engineering since both were projects. Had it started from the beginning of the semester, distributed time for assignments would have been much better and less stressful.</li>
+
+</ul>
+
 <h2>What I can do better or would do differently.</h2>
+<ul>
+    <li>I would love to be a Scrum Master again and applied what I learnt from being the Scrum Master previously. Due to so many things going on this semester, I felt as though I did not get to be the Scrum Master I wanted to be. I wanted to have daily meetings for at least 5 minutes to say what we did the day before, and what we planned to do for the current day, sprint retros at the end of the sprint where we all explain and demo what we did etc. However, we still did put what we did for the day on the group logs, and we had multiple sprint retros when we met in person, as well as online. However, there was still more we could've done, and I will apply what I learnt for all my projects in the future as well as for our other sprints for PiDronics.</li>
+</ul>
 
 ***
 
@@ -28,7 +51,23 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
 
+<strong><h1>Friday 30th November</h1></strong>
+
+<strong><h1>Thursday 29th November</h1></strong>
+
+<strong><h1>Wednesday 28th November</h1></strong>
+
+<strong><h1>Tuesday 27th November</h1></strong>
+
+<strong><h1>Tuesday 11th November</h1></strong>
+
+<strong><h1>Monday 10th November</h1></strong>
+
+<strong><h1>Wednesday 7th November</h1></strong>
+
 <strong><h1>Tuesday 6th November</h1></strong>
+
+<strong><h1>Monday 5th November</h1></strong>
 </details>
 
 ***
@@ -36,21 +75,37 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Six - Seven - Iteration 3 (expand for details)</strong></summary>
 
-<strong><h1>Wednesday 31st October</h1></strong>
-
-<strong><h1>Tuesday 30th October</h1></strong>
-
 <strong><h1>Sunday 28th October</h1></strong>
+<ul>
+    <li> Michael and I worked on troubleshooting the pH sensor. Since we did not have any more female-to-female cables, we tried to connect two males to form a female-female cable, but it still did not work. Therefore, we tested the different components of the pH sensor via a voltage tester.</li>
+    <li> <strong>Hours worked - 3pm - 6pm </strong> </li>
+</ul>
 
 <strong><h1>Saturday 27th October</h1></strong>
+<ul>
+    <li>Michael and I did seperate reseahc on how the pH sensor works, as well as the code and how to connect it. We then talked about what we learnt together. We found out that it is quite different from the sensors we were using before. It uses i2c instead of GPIO and involved translating bits. </li>
+    <li> When Michael connected the pH sensors to the raspberry pi, there were a good bit of problems which we both firgured out and fixed. However, there was a short in two of the female-to-female cables which brought our testing to a stop.</li>
+    <li> <strong>Hours worked - 1pm - 7pm </strong> </li>
+</ul>
+
+<strong><h1>Friday 26th October</h1></strong>
+<ul>
+    <li>I planned out a design for the about page as well as the contents. I wanted the about page to talk about who our team is, what our team represents, what projects we are working on and about our product PiDronics, as well as a roadmap for what we have planned ahead for Pidronics.</li>
+    <li> Michael and I also went into FFA again, to try to obtain sensors. </li>
+    <li> <strong>Hours worked - 2 hours </strong> </li>
+</ul>
+
+<strong><h1>Thursday 25th October</h1></strong>
+<ul>
+    <li> Michael and I got the connectors for the pH sensor from kristan. We could not wait to start implementing the pH code as it is a main sensor for monitoring Hydroponics farms. :D</li>
+</ul>
+
 </details>
 
 ***
 
 <details>
 <summary><strong>Week Five - Week Six - Iteration 2 (expand for details)</strong></summary>
-
-<strong><h1>Tuesday 23rd October</h1></strong>
 
 <strong><h1>Monday 22nd October</h1></strong>
 <ul>
