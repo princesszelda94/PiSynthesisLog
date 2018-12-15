@@ -136,8 +136,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
     <ul>
-        <li> Outcome - The libraries did not work the same for the pi3 as it did for the pi2.</li>
-        <li> We researched and found ways for our sensor code to work on both the pi2 and pi3.</li>
+        <li> Outcome - It works as it shouldn't matter.</li>
     </ul>
 </ul>
 
@@ -149,13 +148,38 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li> We also discussed dipping them in thermally conductive epoxy.</li>
         <li> This outcome had me feeling down as Michael and I worked hard on our code to read sensor values and test them. However, this is just a minor drawback.</li>
     </ul>
-    <li> <strong>What I learnt</strong> => I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder. </li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>We have had regular sprint retros where we show each other what we did and explained it. However, we have not had a proper code review like this where we went through line by line and explained the code. It helped me understand everything a lot better in terms of code and what everyone else is doing.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>I learnt that before jumping into coding a physical component, I should do proper research first and ensure the hardware can be used for what I want it to. However, we only went ahead with those sensors at first as we did not know we were going to submerge the sensors at first. This information only came out to us after our first meeting with our stakeholder.</li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>8 - 9:30 pm - 1 1/2 Hours</li>
+    </ul>
+
 
 <strong><h1>Wednesday 17th October</h1></strong>
 <ul>
-    <li> We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot and feel like we should make code reviews a regular thing.</li>
+    <li> We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>We have had regular sprint retros where we show each other what we did and explained it. However, we have not had a proper code review like this where we went through line by line and explained the code. It helped me understand everything a lot better in terms of code and what everyone else is doing.</li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>9 - 12 pm - 3 Hours</li>
+    </ul>
 
 <strong><h1>Tuesday 16th October</h1></strong>
 <ul>
@@ -163,6 +187,11 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".</li>
 </ul>
 
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6 - 11 pm - 5 Hours</li>
+    </ul>
+    
 
 <strong><h1>Monday 15th October</h1></strong>
 <ul>
@@ -172,8 +201,19 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> New Product Owner: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
     </ul>
     <li> I planned out and assigned tasks for everyone for this week and made sure that we can finish it in time.</li>
-    <li> <strong>Hours worked - 9 - 12 pm</strong></li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>It is my turn to be Scrum Master! I was a bit scared as I would have to be telling the group what to do, and I have a problem with public speaking or saying what I think to other people. However, I am looking forward to eradicating that problem. </li>
+        <li>Planning the tasks was very satisfying for me as I like to make lists of what needs to be done for the day. It keeps me organised and well structured. It is also very satisfying to check of a completed task. </li>
+    </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>9 - 12 pm - 3 Hours</li>
+    </ul>
+  
 
 </details>
 
