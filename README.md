@@ -5,13 +5,13 @@ ID: 813001696 <br>
 Project: Pisynthesis <br>
 Github link: [PiDronics](https://github.com/PiDronics) <br>
 
-<h2>General Thoughts about the course.</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<h2>General Thoughts about the course.</h2>
 <ul>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>This was a course that I was expecting when I starting my Computer Science Degree. It is a very important course and I am so glad I got to do it. Before, I would think that all I have to do is just code and get the system working and that's it. However, this course taught me that there is so much more to software engineering and programming than that. The business aspects, the scrum structure which is so beneficial when working in teams, the stakeholders, writing abstracted, tested code so that it remains of a high quality. This is one of the courses that is defintely beneficial for my future in software development.</li>
+    <li>This was a course that I was expecting when I starting my Computer Science Degree. It is a very important course and I am so glad I got to do it. Before, I would think that all I have to do is just code and get the system working and that's it. However, this course taught me that there is so much more to software engineering and programming than that. The business aspects, the scrum structure which is so beneficial when working in teams, the stakeholders, writing abstracted, tested code so that it remains of a high quality. This is one of the courses that is defintely beneficial for my future in software development.</li>
 </ul>
 ***
 
-<h2>Overall Lessons learnt.</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<h2>Overall Lessons learnt.</h2>
 <ul>
     <li>Do not take on too many things at a time. The internship that ran until the end of October really took away our time from school. I am glad I got to complete the internship, but I also wished it was not the same time as school. Handling both was extremely stressful.</li><br>
     <li>Always design before coding. Normally I jump right into the code and the design comes throughout. However, having a design before saves time and improves the structure of the code where you will know exactly what to do, instead of jumping in with no direction.</li><br>
