@@ -52,6 +52,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
 
 <strong><h1>Friday 30th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
 </ul>
@@ -62,6 +63,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Thursday 29th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>Michael and I met with the stakeholder, Ananda Ramlochan to obtain feedback fromt the deployment. We video recorded him and obtained useful and praising comments about our system as well as little changes to be made.</li>
     <li>I continued working on the Support Page.</li>
@@ -78,6 +80,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Wednesday 28th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>I cleaned up the css files that I added for the support and about pages and added a timeline for a roadmap for our system.</li>
     <li>I also added more information to the Support page and made the FAQ look better.</li>
@@ -89,6 +92,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Tuesday 27th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I added the support page to the mobile app and worked on the FAQ.</li>
     <li>I felt that the login and sign up pages should be seperated, and tried to seperate it. However, it broke something, thus I reverted the changes.</li>
@@ -102,6 +106,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Thursday 15th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I had a follow-up meeting with the stakeholder Ananda Ramlochan where we deployed our system so far to his hydroponics farm. We were lucky as he had both a monitor and WiFi to set up the raspberry pi.</li>
 </ul>
@@ -112,6 +117,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Monday 12th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I finished abstracted the humidity sensor code!</li>
 </ul>
@@ -122,6 +128,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Sunday 11th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I started to abstract the humidity code and ensure that they followed the software engineering principles.</li>
 </ul>
@@ -132,6 +139,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Saturday 10th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>Michael and I worked on pushing the pH sensor data to firebase for live readings.</li>
     <li>I unit tested half of the pH sensor code, while Michael did the rest</li>
@@ -143,6 +151,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Thursday 8th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>We finally obtained female-to-female cables from Electrical Engineering Department.</li>
     <li>Michael and I connected pH sensor to the raspberry pi and it finally worked! :D</li>
@@ -154,6 +163,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Wednesday 7th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I designed the support page and Michael and I both planned out the contents for the FAQ.</li>
 </ul>
@@ -164,6 +174,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Tuesday 6th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I had a follow-up meeting with the stakeholder, Ananda Ramlochan. We planned to deploy soon to his hydroponic farm.</li>
 </ul>
@@ -176,6 +187,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Six - Seven - Iteration 3 (expand for details)</strong></summary>
 
 <strong><h1>Sunday 28th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I worked on troubleshooting the pH sensor. Since we did not have any more female-to-female cables, we tried to connect two males to form a female-female cable, but it still did not work. Therefore, we tested the different components of the pH sensor via a voltage tester.</li>
 </ul>
@@ -187,6 +199,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 
 <strong><h1>Saturday 27th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>Michael and I did seperate reseahc on how the pH sensor works, as well as the code and how to connect it. We then talked about what we learnt together. We found out that it is quite different from the sensors we were using before. It uses i2c instead of GPIO and involved translating bits. </li>
     <li> When Michael connected the pH sensors to the raspberry pi, there were a good bit of problems which we both firgured out and fixed. However, there was a short in two of the female-to-female cables which brought our testing to a stop.</li>
@@ -198,6 +211,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Friday 26th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li>I planned out a design for the about page as well as the contents. I wanted the about page to talk about who our team is, what our team represents, what projects we are working on and about our product PiDronics, as well as a roadmap for what we have planned ahead for Pidronics.</li>
     <li> Michael and I also went into FFA again, to try to obtain sensors. </li>
@@ -209,6 +223,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Thursday 25th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I got the connectors for the pH sensor from kristan. We could not wait to start implementing the pH code as it is a main sensor for monitoring Hydroponics farms. :D</li>
 </ul>
@@ -221,6 +236,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Five - Week Six - Iteration 2 (expand for details)</strong></summary>
 
 <strong><h1>Monday 22nd October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We discussed changing our database from Firebase to a relational database.</li>
     <li> I conducted some unit tests to test the data types for the sensor code </li>
@@ -234,6 +250,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Sunday 21st October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
@@ -249,6 +266,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Saturday 20th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I worked with Michael to write sensor code to pull data from both the pi2 and pi3. </li>
     <li> I also unit tested the functions used in the sensor code.</li>
@@ -265,6 +283,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Friday 19th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> Michael and I obtained the pi3 and tested out sensor code on it.</li>
     <ul>
@@ -273,6 +292,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </ul>
 
 <strong><h1>Thursday 18th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I worked with Michael to test if the sensors we had could be submerged. It could not as our sensors do not work in a moisture rich environment.</li>
     <ul>
@@ -299,6 +319,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 
 <strong><h1>Wednesday 17th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We had a scrum meeting and discussed how to fix the structure of Firebase. We did a code review where Kristan, Michael and I reviewed the code and structure we used for Firebase and ways to improve it. It felt great seeing someone explain their code, I learnt a lot.</li>
 </ul>
@@ -314,6 +335,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
 
 <strong><h1>Tuesday 16th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> I worked with Michael to pull the sensor values into firebase and into the web app.</li>
     <li> We worked on Milestone 3: Most of it was done already, we were not sure about the "proof of methodology".</li>
@@ -326,6 +348,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     
 
 <strong><h1>Monday 15th October</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
 <ul>
     <li> We discussed who would be the scrum master and product owner this week:</li>
     <ul>
