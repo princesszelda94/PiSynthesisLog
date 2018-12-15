@@ -52,22 +52,122 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
 
 <strong><h1>Friday 30th November</h1></strong>
+<ul>
+    <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10pm - 1am - 3 Hours</li>
+    </ul>
 
 <strong><h1>Thursday 29th November</h1></strong>
+<ul>
+    <li>Michael and I met with the stakeholder, Ananda Ramlochan to obtain feedback fromt the deployment. We video recorded him and obtained useful and praising comments about our system as well as little changes to be made.</li>
+    <li>I continued working on the Support Page.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>9pm - 11pm - 2 Hours</li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6pm - 8pm - 2 Hours</li>
+    </ul>
 
 <strong><h1>Wednesday 28th November</h1></strong>
+<ul>
+    <li>I cleaned up the css files that I added for the support and about pages and added a timeline for a roadmap for our system.</li>
+    <li>I also added more information to the Support page and made the FAQ look better.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>7pm - 9pm - 2 Hours</li>
+    </ul>
 
 <strong><h1>Tuesday 27th November</h1></strong>
+<ul>
+    <li> Michael and I added the support page to the mobile app and worked on the FAQ.</li>
+    <li>I felt that the login and sign up pages should be seperated, and tried to seperate it. However, it broke something, thus I reverted the changes.</li>
+    <li>Michael and I worked on adding the about page to the mobile app.</li>
+    <li>The about and support pages added were just an initial implementation, we made sure it was working before formatting it, thus, it was badly formatted at first and also produced many warnings.</li>
+</ul>
 
-<strong><h1>Tuesday 11th November</h1></strong>
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>4pm - 8pm - 4 Hours</li>
+    </ul>
 
-<strong><h1>Monday 10th November</h1></strong>
+<strong><h1>Thursday 15th November</h1></strong>
+<ul>
+    <li> Michael and I had a follow-up meeting with the stakeholder Ananda Ramlochan where we deployed our system so far to his hydroponics farm. We were lucky as he had both a monitor and WiFi to set up the raspberry pi.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6pm - 8pm - 2 Hours</li>
+    </ul>
+
+<strong><h1>Monday 12th November</h1></strong>
+<ul>
+    <li> I finished abstracted the humidity sensor code!</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10pm - 11pm - 1 Hour</li>
+    </ul>
+
+<strong><h1>Sunday 11th November</h1></strong>
+<ul>
+    <li> I started to abstract the humidity code and ensure that they followed the software engineering principles.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>2pm - 4pm - 2 Hours</li>
+    </ul>
+
+<strong><h1>Saturday 10th November</h1></strong>
+<ul>
+    <li>Michael and I worked on pushing the pH sensor data to firebase for live readings.</li>
+    <li>I unit tested half of the pH sensor code, while Michael did the rest</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>3pm - 6pm - 3 Hours</li>
+    </ul>
+
+<strong><h1>Thursday 8th November</h1></strong>
+<ul>
+    <li>We finally obtained female-to-female cables from Electrical Engineering Department.</li>
+    <li>Michael and I connected pH sensor to the raspberry pi and it finally worked! :D</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>9pm - 12pm - 3 Hours</li>
+    </ul>
 
 <strong><h1>Wednesday 7th November</h1></strong>
+<ul>
+    <li> I designed the support page and Michael and I both planned out the contents for the FAQ.</li>
+</ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>6pm - 8pm - 2 Hours</li>
+    </ul>
 
 <strong><h1>Tuesday 6th November</h1></strong>
-
-<strong><h1>Monday 5th November</h1></strong>
+<ul>
+    <li> Michael and I met with a new stakeholder, Ananda Ramlochan, and told him about what we are doing and what we planned to do. We obtained great feedback for our system and he was all for helping us and allowing us to deploy on his hydroponics farms.</li>
+</ul>
+    
 </details>
 
 ***
@@ -78,22 +178,35 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Sunday 28th October</h1></strong>
 <ul>
     <li> Michael and I worked on troubleshooting the pH sensor. Since we did not have any more female-to-female cables, we tried to connect two males to form a female-female cable, but it still did not work. Therefore, we tested the different components of the pH sensor via a voltage tester.</li>
-    <li> <strong>Hours worked - 3pm - 6pm </strong> </li>
 </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>3pm - 6pm - 3 Hours</li>
+    </ul>
+
 
 <strong><h1>Saturday 27th October</h1></strong>
 <ul>
     <li>Michael and I did seperate reseahc on how the pH sensor works, as well as the code and how to connect it. We then talked about what we learnt together. We found out that it is quite different from the sensors we were using before. It uses i2c instead of GPIO and involved translating bits. </li>
     <li> When Michael connected the pH sensors to the raspberry pi, there were a good bit of problems which we both firgured out and fixed. However, there was a short in two of the female-to-female cables which brought our testing to a stop.</li>
-    <li> <strong>Hours worked - 1pm - 7pm </strong> </li>
 </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>1pm - 7pm - 6 Hours</li>
+    </ul>
 
 <strong><h1>Friday 26th October</h1></strong>
 <ul>
     <li>I planned out a design for the about page as well as the contents. I wanted the about page to talk about who our team is, what our team represents, what projects we are working on and about our product PiDronics, as well as a roadmap for what we have planned ahead for Pidronics.</li>
     <li> Michael and I also went into FFA again, to try to obtain sensors. </li>
-    <li> <strong>Hours worked - 2 hours </strong> </li>
 </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>2 Hours</li>
+    </ul>
 
 <strong><h1>Thursday 25th October</h1></strong>
 <ul>
@@ -113,8 +226,12 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> I conducted some unit tests to test the data types for the sensor code </li>
     <li> I included try except into my code to test if my libraries, methods and parameters exist</li>
     <li> I researched the code used and how to setup the Dissolved Oxygen and EC meters</li>
-    <li> <strong>Hours worked - 10pm - 4am </strong> </li>
 </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10pm - 4am - 6 Hours</li>
+    </ul>
 
 <strong><h1>Sunday 21st October</h1></strong>
 <ul>
@@ -125,6 +242,11 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     </ul>
     <li> We discussed what we completed for the week, what's left to do and problems we ran into.</li>
 </ul>
+    
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>9 - 11 pm - 2 Hours</li>
+    </ul>
 
 <strong><h1>Saturday 20th October</h1></strong>
 <ul>
