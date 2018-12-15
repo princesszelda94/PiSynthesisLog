@@ -74,11 +74,6 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li>9pm - 11pm - 2 Hours</li>
     </ul>
 
-<strong><h3>Hours worked - </h3></strong>
-    <ul>
-        <li>6pm - 8pm - 2 Hours</li>
-    </ul>
-
 <strong><h1>Wednesday 28th November</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
