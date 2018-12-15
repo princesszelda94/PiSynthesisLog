@@ -41,7 +41,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <h2>What I can do better or would do differently.</h2>
 <ul>
-    &nbsp;<li>I would love to be a Scrum Master again and applied what I learnt from being the Scrum Master previously. Due to so many things going on this semester, I felt as though I did not get to be the Scrum Master I wanted to be. I wanted to have daily meetings for at least 5 minutes to say what we did the day before, and what we planned to do for the current day, sprint retros at the end of the sprint where we all explain and demo what we did etc. However, we still did put what we did for the day on the group logs, and we had multiple sprint retros when we met in person, as well as online. However, there was still more we could've done, and I will apply what I learnt for all my projects in the future as well as for our other sprints for PiDronics.</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>I would love to be a Scrum Master again and applied what I learnt from being the Scrum Master previously. Due to so many things going on this semester, I felt as though I did not get to be the Scrum Master I wanted to be. I wanted to have daily meetings for at least 5 minutes to say what we did the day before, and what we planned to do for the current day, sprint retros at the end of the sprint where we all explain and demo what we did etc. However, we still did put what we did for the day on the group logs, and we had multiple sprint retros when we met in person, as well as online. However, there was still more we could've done, and I will apply what I learnt for all my projects in the future as well as for our other sprints for PiDronics.</li>
 </ul>
 
 ***
