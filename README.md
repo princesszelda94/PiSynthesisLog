@@ -13,9 +13,9 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 <h2>Overall Lessons learnt.</h2>
 <ul>
-    <li>Do not take on too many things at a time. The internship that ran until the end of October really took away our time from school. I am glad I got to complete the internship, but I also wished it was not the same time as school. Handling both was extremely stressful.</li>
-    <li>Always design before coding. Normally I jump right into the code and the design comes throughout. However, having a design before saves time and improves the structure of the code where you will know exactly what to do, instead of jumping in with no direction.</li>
-    <li>Testing and abstracting code is extremely important for highly maintainable and high quality code.</li>
+    <li>Do not take on too many things at a time. The internship that ran until the end of October really took away our time from school. I am glad I got to complete the internship, but I also wished it was not the same time as school. Handling both was extremely stressful.</li><br>
+    <li>Always design before coding. Normally I jump right into the code and the design comes throughout. However, having a design before saves time and improves the structure of the code where you will know exactly what to do, instead of jumping in with no direction.</li><br>
+    <li>Testing and abstracting code is extremely important for highly maintainable and high quality code.</li><br>
     <li>Sleep and physical and mental health is important. Even though I have learnt this lesson so many times, I am still stubborn as I always want to e.g. Ensure my assignment is perfect, even though it gets me sick. However, I am slowly learning to take care of myself and not kill myself over school work.</li>
 
 </ul>
