@@ -53,6 +53,56 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <details>
 <summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
 
+<strong><h1>Thursday 13th December</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Everyone met on hangouts to initiate the 5th increment and plan for the presentations.</li>
+</ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li></li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10pm - 1am - 3 Hours</li>
+    </ul>
+
+<strong><h1>Monday 10th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
+</ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li></li>
+    </ul>
+
+<strong><h3>Hours worked - </h3></strong>
+    <ul>
+        <li>10pm - 1am - 3 Hours</li>
+    </ul>
+
+    
+</details>
+
+***
+
+<details>
+<summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
+
 <strong><h1>Friday 30th November</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
