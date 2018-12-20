@@ -56,12 +56,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Thursday 13th December</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li> Everyone met on hangouts to initiate the 5th increment and plan for the presentations.</li>
+    <li>Everyone met on hangouts to initiate the 5th increment and plan for the presentations.</li>
+    <ul>
+    <li> New Scrum Master: <a href="https://github.com/Qarun-Qadir-Bissoondial">Qarun Bissoondial</a></li>
+    <li> New Product Owner: </li>
+    </ul>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+        <li>This increment will be finalising our product, ensuring everything is tested, documented and abstracted, and of course functional.</li>
     </ul>
     
 <strong><h3>Lessons Learnt -</h3></strong>
