@@ -59,6 +59,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li></li>
+    </ul>
+
 <strong><h3>Hours worked - </h3></strong>
     <ul>
         <li>10pm - 1am - 3 Hours</li>
@@ -97,6 +107,17 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li>The about and support pages added were just an initial implementation, we made sure it was working before formatting it, thus, it was badly formatted at first and also produced many warnings.</li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>The login and sign up pages were on one page, which was not pleasing to me. When I tried to seperate them, firebase stopped sending the error messages to the app upon login and sign-up. Therefore, I reverted it and left Kristan to fix it. </li>
+        <li>The code used for the support and about were very bad at first and was not meant to be seen yet. I should have pushed after I completed it.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>gregeg</li>
+    </ul>
+
 <strong><h3>Hours worked - </h3></strong>
     <ul>
         <li>4pm - 8pm - 4 Hours</li>
@@ -107,6 +128,11 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Michael and I had a follow-up meeting with the stakeholder Ananda Ramlochan where we deployed our system so far to his hydroponics farm. We were lucky as he had both a monitor and WiFi to set up the raspberry pi.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Our system is limited in that the user needs to have an internet connection and a monitor to set-up the pi initially. We were so lucky that our first stakeholder had these. However, we will work on getting the pi to work on laptops. It was not a priority, which is why we had not done it yet. Obtaining and getting the sensors to work was more important.</li>
+    </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
@@ -129,6 +155,12 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> I started to abstract the humidity code and ensure that they followed the software engineering principles.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>Abstraction is beautiful.</li>
+    </ul>
+    
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
@@ -154,6 +186,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li>Michael and I connected pH sensor to the raspberry pi and it finally worked! :D</li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>THE pH SENSOR WORKED!!! :D Things are looking good. I cannot wait to deploy our system and get feedback on how to make it better :D It tooka long time due to hardware unavailability and shorts, but it worked out in the end :D</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>If things are not working out at the moment, do not dismay and keep on trying your best.</li>
+    </ul>
+
 <strong><h3>Hours worked - </h3></strong>
     <ul>
         <li>9pm - 12pm - 3 Hours</li>
@@ -175,6 +217,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Michael and I had a follow-up meeting with the stakeholder, Ananda Ramlochan. We planned to deploy soon to his hydroponic farm.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>I truly hope we get the pH sensor fully working and updating in real-time before we deploy. I was also very excited that we finally got a stakeholder to deploy with :D It has been very hard with the flood occurring and damaging so much of our stakeholders hydroponics farms :( I do hope that they did not lose too much and everything is fixed.</li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>In time, things will work out :D</li>
+    </ul>
     
 </details>
 
@@ -188,6 +240,11 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Michael and I worked on troubleshooting the pH sensor. Since we did not have any more female-to-female cables, we tried to connect two males to form a female-female cable, but it still did not work. Therefore, we tested the different components of the pH sensor via a voltage tester.</li>
 </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>If one is limited in what they have to make a product work, don't stop working and always come up with creative solutions.</li>
+    </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
@@ -198,9 +255,19 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Saturday 27th October</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li>Michael and I did seperate reseahc on how the pH sensor works, as well as the code and how to connect it. We then talked about what we learnt together. We found out that it is quite different from the sensors we were using before. It uses i2c instead of GPIO and involved translating bits. </li>
+    <li>Michael and I did seperate research on how the pH sensor works, as well as the code and how to connect it. We then talked about what we learnt together. We found out that it is quite different from the sensors we were using before. It uses i2c instead of GPIO and involved translating bits. </li>
     <li> When Michael connected the pH sensors to the raspberry pi, there were a good bit of problems which we both firgured out and fixed. However, there was a short in two of the female-to-female cables which brought our testing to a stop.</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>The pH probe code and set-up is very different from the DHT11 Temperature and Humidity sensor. We ran into many problems and I was very distressed that it could not work due to the bad female-to-female cables. It was quite stressful, as we only had one more month for the project and did not get to deploy to a stakeholder yet due to hardware troubles :( </li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li></li>
+    </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
@@ -214,6 +281,16 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> Michael and I also went into FFA again, to try to obtain sensors. </li>
 </ul>
 
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>FFA was not helpful again :( We went to the dean this time to ask for help, even though we saw her during her office hours she was extremely rude and did not care to help :( </li>
+    </ul>
+    
+<strong><h3>Lessons Learnt -</h3></strong>
+    <ul>
+        <li>It is not easy to get what you want.</li>
+    </ul>
+
 <strong><h3>Hours worked - </h3></strong>
     <ul>
         <li>2 Hours</li>
@@ -224,6 +301,11 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <ul>
     <li> Michael and I got the connectors for the pH sensor from kristan. We could not wait to start implementing the pH code as it is a main sensor for monitoring Hydroponics farms. :D</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>I could not wait to start working on the pH sensor code and finally get to deploy to a stakeholder!</li>
+    </ul>
 
 </details>
 
@@ -240,6 +322,12 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> I included try except into my code to test if my libraries, methods and parameters exist</li>
     <li> I researched the code used and how to setup the Dissolved Oxygen and EC meters</li>
 </ul>
+
+<strong><h3>Thoughts -</h3></strong>
+    <ul>
+        <li>We really wanted to switch over to a relational database. However, given the time frame, and how much code was already done with the database, we decided to stay with Firebase for now for the course and change to a relational database after the course is completed. Firebase gives trouble and is not optimal for the product we want to build. </li>
+         <li>This was my last day as Scrum Master, I felt a bit sad as due to my internship, I did not get to do all the Scrum duties I wanted to do where we did not get to meet everyday and state what we did, and what we plan to do. We did however, always updated the group logs with what we did.</li>
+    </ul>
 
 <strong><h3>Hours worked - </h3></strong>
     <ul>
