@@ -196,6 +196,13 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
         <li>6pm - 8pm - 2 Hours</li>
     </ul>
 
+<strong><h1>Wednesday 14th November</h1></strong>
+<strong><h3>Tasks Completed -</h3></strong>
+<ul>
+    <li>Researched optimal ranges and how to use unix timestamp to collect data from Firebase. This research was done to help Michael with the min, max, average and ranges for the sensors.</li>
+</ul>
+
+
 <strong><h1>Monday 12th November</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
