@@ -50,6 +50,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 
 ***
 
+<!--
 <details>
 <summary><strong>Week Thirteen - Week Fourteen - Iteration 5 (expand for details)</strong></summary>
 
@@ -103,6 +104,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 </details>
 
 ***
+-->
 
 <details>
 <summary><strong>Week Eight - Week Eleven - Iteration 4 (expand for details)</strong></summary>
