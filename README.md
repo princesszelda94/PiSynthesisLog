@@ -81,12 +81,12 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Monday 10th November</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
+    <li> Using MDBReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+        <li>MDBReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
     </ul>
     
 <strong><h3>Lessons Learnt -</h3></strong>
@@ -110,17 +110,18 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
 <strong><h1>Friday 30th November</h1></strong>
 <strong><h3>Tasks Completed -</h3></strong>
 <ul>
-    <li> Using MBDReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
+    <li> Using MDBReact, I added the collapsible feature to the FAQ on the Support page, and removed all unused comments and components.</li>
 </ul>
 
 <strong><h3>Thoughts -</h3></strong>
     <ul>
-        <li>MBDReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
+        <li>MDBReact is extremely uselful and has so many components that makes developing and designing so easy.</li>
     </ul>
     
 <strong><h3>Lessons Learnt -</h3></strong>
     <ul>
-        <li></li>
+        <li>Since I was so new to ReactJS, I had decided to follow Qarun's and Kristan's guidance like gospel and avoid using libraries. However, I soon learnt how much easier and quicker it is to include them, such as for Carousel and Timeline components. I enjoyed using the various react components and the creativity they allowed. I even learnt enough to get a Pro component of MDBReact working :D
+        In order words, experimenting is fun and extremely useful.</li>
     </ul>
 
 <strong><h3>Hours worked - </h3></strong>
@@ -169,7 +170,7 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     
 <strong><h3>Lessons Learnt -</h3></strong>
     <ul>
-        <li>gregeg</li>
+        <li>Don't merge branch to master unless a fully-working and documented feature branch is complete. I understood this from the beginning but our CircleCI was set up to only deploy from Master. We also ran into some problems with conflicts between my feature and Qarun's testing branch where some changes reverted when the test branch was merged. This just means we need to have better communication and Git tracking (probably in Slack where we can retain messages in pin). </li>
     </ul>
 
 <strong><h3>Hours worked - </h3></strong>
@@ -210,9 +211,9 @@ Github link: [PiDronics](https://github.com/PiDronics) <br>
     <li> I started to abstract the humidity code and ensure that they followed the software engineering principles.</li>
 </ul>
 
-<strong><h3>Thoughts -</h3></strong>
+<strong><h3>Lessons Learnt -</h3></strong>
     <ul>
-        <li>Abstraction is beautiful.</li>
+        <li>Abstraction is beautiful. Really helped us with testing, and fully understanding the end-to-end system, like how the different components interact. I can see the benefits of focusing on functionality, but it's nothing compared to what we gained by abstraction.</li>
     </ul>
     
 
